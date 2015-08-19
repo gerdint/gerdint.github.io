@@ -19,6 +19,7 @@
     <link rel="stylesheet" type="text/css" href="@|uri-prefix|/css/pygments.css">
     <link rel="stylesheet" type="text/css" href="@|uri-prefix|/css/scribble.css">
     <link rel="stylesheet" type="text/css" href="@|uri-prefix|/css/custom.css">
+    <link href='http://fonts.googleapis.com/css?family=Covered+By+Your+Grace' rel='stylesheet' type='text/css'>
     <!-- Feeds -->
     <link rel="alternate" type="application/atom+xml"
           href="@|atom-feed-uri|" title="Atom Feed">
@@ -29,7 +30,7 @@
   </head>
   <body>
     <!-- A standard Twitter Bootstrap nav bar -->
-    <header class="navbar navbar-default navbar-inverse"
+    <header @;class="navbar navbar-default navbar-inverse"
             role="banner">
       <div class="container">
         <div class="navbar-header">
@@ -43,6 +44,7 @@
           </button>
           <a href="@|uri-prefix|/index.html" class="navbar-brand">Vita tummar </a>
         </div>
+	@;{
         <div class="collapse navbar-collapse our-nav-collapse"
              role="navigation">
           <ul class="nav navbar-nav">
@@ -66,7 +68,7 @@
             <li><a href="@|atom-feed-uri|">Atom</a></li>
             <li><a href="@|rss-feed-uri|">RSS</a></li>
           </ul>
-        </div>
+        </div> }
       </div>
     </header>
     <div class="container">

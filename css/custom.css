@@ -1,5 +1,27 @@
 /* custom.css */
 
+header[role="banner"] {
+    background-image: url('/vitatummar/img/bakbord.jpg');
+    border: none;
+    border-radius: none;
+}
+
+.navbar-brand {
+    color: white;
+    font-family: 'Covered By Your Grace', cursive;
+    text-shadow: 0px 0px 8px #000;
+
+    line-height: 158px;
+    font-size: 70px;
+    font-weight: bold;
+    letter-spacing: -1px;
+
+    padding-left: 0;
+}
+a.navbar-brand:visited, a.navbar-brand:hover {
+    color: white;
+}
+
 code {
     color: black;
 }
