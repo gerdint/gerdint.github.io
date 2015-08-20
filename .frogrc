@@ -40,7 +40,7 @@ show-tag-counts? = true
 
 # Should index page items contain full posts -- more than just the
 # portion above "the jump" <!-- more --> marker (if any)?
-index-full? = false
+index-full? = true
 
 # Should feed items contain full posts -- more than just the portion
 # above "the jump" <!-- more --> marker (if any)?
