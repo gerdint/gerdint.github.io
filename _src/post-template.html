@@ -1,6 +1,10 @@
+@(local-require utils/swedish-date)
 <article>
   <header>
-    <p class='date-and-tags'>@|date| :: @|tags|</p>
+    <p class='date-and-tags'>
+      @(date->swedish date-struct)
+      ::
+      @|tags|</p>
     <h1>@|title|</h1>
   </header>
   @|content|

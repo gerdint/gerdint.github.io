@@ -1,12 +1,12 @@
 @(local-require racket/date)
+@(local-require utils/swedish-date)
 <article>
   <header>
     <p class='date-and-tags'>
       <time datetime='@|date-8601|' pubdate='true'>
-        @(parameterize ([date-display-format 'iso-8601])
-	  (date->string date-struct))
+	  @(date->swedish date-struct)
       </time>
-      @(when (> (string-length (string-trim tags)) 0)
+      @(when (not (string=? (string-trim tags) ""))
         @list{:: @|tags|})</p>
     <h2><a href='@|uri-path|'>@|title|</a></h2>
   </header>
