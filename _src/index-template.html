@@ -6,8 +6,10 @@
       <time datetime='@|date-8601|' pubdate='true'>
 	  @(date->swedish date-struct)
       </time>
+      @;{
       @(when (not (string=? (string-trim tags) ""))
-        @list{:: @|tags|})</p>
+      @list{:: @|tags|}) }
+    </p>
     <h2><a href='@|uri-path|'>@|title|</a></h2>
   </header>
   @|content-only|
