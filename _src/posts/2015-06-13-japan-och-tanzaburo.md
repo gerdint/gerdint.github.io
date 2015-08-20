@@ -2,8 +2,8 @@
     Date: 2015-06-13T12:39:54
     Tags:
 
-<a href="/vitatummar/img/Fuji-san.jpg">
-	<img src="/vitatummar/img/Fuji-san-liten.jpg" class="img-responsive center-block" title="Mount Fuji">
+<a href="/img/Fuji-san.jpg">
+	<img src="/img/Fuji-san-liten.jpg" class="img-responsive center-block" title="Mount Fuji">
 </a>
 
 Sedan tre månader tillbaka så befinner jag mig i Japan. Att åka tillbaka till Japan för att ägna mig åt japanskt mathantverk har varit en dröm sedan några år tillbaka och mot slutet av förra året så kände jag att det var dags.
@@ -18,4 +18,4 @@ Restaurangen ligger i bergiga och natursköna omgivningar en timme eller två me
 
 Tanzaburo är en tämligen populär restaurang (i synnerhet på helger och andra helgdagar) och arbetet tidvis väldigt intensivt. Kultur- och språkbarriärer finns det också gott om men överlag trivs som fisken i vattnet och är väldigt tacksam över att ha hamnat där jag är. 
 
-![Undertecknad tillsammans med tencho](/vitatummar/img/Tencho-och-jag.jpg)
+![Undertecknad tillsammans med tencho](/img/Tencho-och-jag.jpg)

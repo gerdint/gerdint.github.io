@@ -1,0 +1,15 @@
+* DONE Minska marginaler kraftigt som Jekyllsajten
+* TODO Snygga till bilder
+** Ram
+** Skugga
+** DONE Bildtext
+** DONE Centrera
+* DONE Uppgradera Bootstrap
+* TODO Checka inte in genererade filer
+  Generera till underkatalog, git init, git commit och push vid deployment
+  Använd git submodule? Eller ignorera innehållet i utdata-katalog bara?
+* TODO Minska storlek på bakgrundsbild?
+
+Frog patchar
+* TODO Patch till Frog - ta bort sitemap.txt vid clean
+* TODO watch:a även CSS och mallar?

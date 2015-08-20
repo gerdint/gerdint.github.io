@@ -2,7 +2,7 @@
     Date: 2015-07-29T16:07:50
     Tags:
 
-![](/vitatummar/img/Mitake.jpg)
+![](/img/Mitake.jpg)
 
 Bilden ovan är en vy av det lilla samhället där jag bor, *Mitake*. Jag har en egen våning av traditionellt japanskt snitt i en av byggnaderna bakom träden i mitten av bilden, 10 meter ovanför floden eller så. Nästan overkligt.
 
