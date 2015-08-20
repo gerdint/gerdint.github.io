@@ -1,13 +1,14 @@
 @(local-require racket/date)
 <article>
   <header>
-    <h2><a href='@|uri-path|'>@|title|</a></h2>
     <p class='date-and-tags'>
       <time datetime='@|date-8601|' pubdate='true'>
         @(parameterize ([date-display-format 'iso-8601])
 	  (date->string date-struct))
       </time>
-      :: @|tags|</p>
+      @(when (> (string-length (string-trim tags)) 0)
+        @list{:: @|tags|})</p>
+    <h2><a href='@|uri-path|'>@|title|</a></h2>
   </header>
   @|content-only|
   @(when more?

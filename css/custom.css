@@ -22,6 +22,11 @@ a.navbar-brand:visited, a.navbar-brand:hover {
     color: white;
 }
 
+.date-and-tags {
+    margin-top: 20px;
+    font-style: italic;
+}
+
 code {
     color: black;
 }
