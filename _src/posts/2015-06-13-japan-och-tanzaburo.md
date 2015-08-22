@@ -2,15 +2,22 @@
     Date: 2015-06-13T12:39:54
     Tags:
 
-<a href="/img/Fuji-san.jpg">
-	<img src="/img/Fuji-san-liten.jpg" class="img-responsive center-block" title="Mount Fuji">
-</a>
+<div class='figure'>
+	<a href="/img/Fuji-san.jpg">
+		<img src="/img/Fuji-san-liten.jpg" class="img-responsive center-block" title="Mount Fuji">
+	</a>
+</div>
 
 Sedan tre månader tillbaka så befinner jag mig i Japan. Att åka tillbaka till Japan för att ägna mig åt japanskt mathantverk har varit en dröm sedan några år tillbaka och mot slutet av förra året så kände jag att det var dags.
 
 <!-- more -->
 
 Det var inte mycket som gick att planera i förväg men allting har löst sig oförskämt bra. Efter båtresa från Shanghai till Osaka, några dagar i fantastiska Kyoto och ett par veckor hos gamla vänner i Tokyo så vad jag och provjobbade på en [soba](https://sv.wikipedia.org/wiki/Soba)restaurang i utkanten av västra Tokyo.
+
+<div class="figure pull-right">
+	<img src="/img/Tanzaburo.jpg" alt="Tanzaburo">
+	<p class="caption">Tanzaburo</p>
+</div>
 
 Min erfarenhet av professionell nudeltillverkning inskränker sig till en femdagarskurs i Toronto i förra året så i början var det ganska nervöst. Jag fick bo hemma hos familjen som driver restaurangen och kände mig åtminstone väldigt välkommen, och märkte också snart att *tencho* (huvudkock och pappan i familjen) var en mycket öppen och varmhjärtad person. Efter tre tidvis omtumlande men mycket inspirerande dagar så fick jag i alla fall veta att jag var välkommen tillbaka för en längre period om jag så önskade. Det krävdes inga längre överläggningar från min sida då *Tanzaburo* (restaurangens namn) var precis ett sådant ställe som jag letade efter och sedan april är jag lycklig medarbetare samt lärling till tencho!
 

@@ -1,5 +1,5 @@
 * DONE Minska marginaler kraftigt som Jekyllsajten
-* TODO Snygga till bilder
+* DONE Snygga till bilder
 ** Ram
 ** Skugga
 ** DONE Bildtext
@@ -9,8 +9,8 @@
   Generera till underkatalog, git init, git commit och push vid deployment
   Använd git submodule? Eller ignorera innehållet i utdata-katalog bara?
 * TODO Minska storlek på bakgrundsbild?
-
-Frog patchar
+* DONE Lägg till img-responsive klass till img-taggar
+* TODO om-sida med bild pa mig
 * TODO favicon
 
 Frog patchar
