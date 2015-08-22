@@ -9,7 +9,7 @@
     <meta name="description" content="@|description|">
     <meta name="author"      content="@|author|">
     <meta name="keywords"    content="@|keywords|">
-    <meta name="viewport"    content="width=device-width, initial-scale=1.0">
+    <meta name="viewport"    content="width=device-width, initial-scale=1.0"> @; maximum-scale=1, user-scalable=no">
     <link rel="icon"      href="@|uri-prefix|/favicon.ico">
     <link rel="canonical" href="@|full-uri|">
     @(when rel-next @list{<link rel="next" href="@|rel-next|">})
@@ -64,9 +64,9 @@
                 @|tags-list-items|
               </ul>
             </li>
-            <!-- @ni[(string-append uri-prefix "/About.html") "About"] -->
-            <li><a href="@|atom-feed-uri|">Atom</a></li>
-            <li><a href="@|rss-feed-uri|">RSS</a></li>
+            @ni[(string-append uri-prefix "/Om.html") "Om"]
+            <!-- <li><a href="@|atom-feed-uri|">Atom</a></li> -->
+            <!-- <li><a href="@|rss-feed-uri|">RSS</a></li> -->
           </ul>
         </div> }
       </div>
@@ -97,8 +97,25 @@
       </div>
       <footer>
         <hr />
+	<h3>Vita tummar</h3>
+	
+	<div class='row'>
+	  <div class='col-md-5'>
+	    <p>Prenumerera via <a href="@|atom-feed-uri|">Atom</a> | <a href="@|rss-feed-uri|">RSS</a> </p>
+
+	    <p>Tobias Gerdin <br/>
+	    <a href="mailto: tgerdin vid gmail.com">E-post</a>
+	    </p>
+	  </div>
+	  <!-- <div class='col-md-2-offset'></div> -->
+	  <div class='col-md-7'>
+	    En blogg om genuin nudelkultur och allt som hör därtill.
+	  </div>
+	</div>
+	
         <!-- <p>@twitter-follow-button["racketlang" "Follow RacketLang"]</p> -->
-        <p>Sajt byggd med <a href="https://github.com/greghendershott/frog">Frog</a> och <a href="http://twitter.github.com/bootstrap/index.html">Bootstrap</a>.</p>,
+
+        <p id='credits'>Sajt byggd med <a href="https://github.com/greghendershott/frog">Frog</a> och <a href="http://twitter.github.com/bootstrap/index.html">Bootstrap</a>.</p>,
       </footer>
     </div>
     <!-- </body> JS -->

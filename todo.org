@@ -11,5 +11,8 @@
 * TODO Minska storlek på bakgrundsbild?
 
 Frog patchar
+* TODO favicon
+
+Frog patchar
 * TODO Patch till Frog - ta bort sitemap.txt vid clean
 * TODO watch:a även CSS och mallar?

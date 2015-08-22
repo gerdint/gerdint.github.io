@@ -6,7 +6,7 @@ header[role="banner"] {
     border-radius: none;
 }
 
-header>.container, #content {
+header>.container, #content, footer {
     max-width: 600px;
     margin-left: auto;
     margin-right: auto;
@@ -25,10 +25,11 @@ article header {
 .navbar-brand { color: white; font-family: 'Covered By Your Grace',
     cursive; text-shadow: 0px 0px 8px #000;
 
-    line-height: 158px;
-    font-size: 70px;
+    line-height: 2.5em;
+    font-size: 5em;
     font-weight: bold;
     letter-spacing: -1px;
+    white-space: nowrap;
 
     padding-left: 0;
     float: none;
@@ -46,13 +47,27 @@ a.navbar-brand:visited, a.navbar-brand:hover {
 /* Use Boostrap less mixins? */
 .figure {
     text-align: center;
+    
+    margin-top: 2em;
+    margin-bottom: 2em;
 }
+
+.figure>.caption {
+    font-size: small;
+    margin-top: 0.4em;
+}
+
 .figure>img {
     display: block;
     margin-left: auto;
     margin-right: auto;
 }
 
+#credits {
+    margin-top: 3em;
+    font-size: small;
+    text-align: center;
+}
 
 code {
     color: black;
