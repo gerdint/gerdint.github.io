@@ -13,6 +13,7 @@
 * DONE Lägg till img-responsive klass till img-taggar
 * TODO om-sida med bild pa mig
 * TODO favicon
+* TODO recaptcha widget?
 
 Frog patchar
 * TODO Patch till Frog - ta bort sitemap.txt vid clean

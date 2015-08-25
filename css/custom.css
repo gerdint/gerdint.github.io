@@ -30,7 +30,7 @@ h1, h2 {
 }
 
 article {
-    margin-top: 3em;
+    margin-bottom: 3em;
 }
 
 article header {
@@ -40,6 +40,7 @@ article header {
 header[role='banner'] {
     padding-top: 2em;
     padding-bottom: 2em;
+    margin-bottom: 20px;
 }
 .navbar-brand {
     color: white;
