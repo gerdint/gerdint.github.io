@@ -9,6 +9,7 @@
   Generera till underkatalog, git init, git commit och push vid deployment
   Använd git submodule? Eller ignorera innehållet i utdata-katalog bara?
 * TODO Minska storlek på bakgrundsbild?
+  media query pa bredd, 2 versioner..
 * DONE Lägg till img-responsive klass till img-taggar
 * TODO om-sida med bild pa mig
 * TODO favicon

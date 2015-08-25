@@ -1,9 +1,20 @@
 /* custom.css */
 
 header[role="banner"] {
-    background-image: url('/img/bakbord.jpg');
     border: none;
     border-radius: none;
+}
+@media (max-width: 640px) {
+    header[role="banner"] {
+	background-image: url('/img/bakbord640.jpg');
+    }
+}
+@media (min-width: 640px) {
+    header[role="banner"] {
+	background-image: url('/img/bakbord1800.jpg');
+	/* border: none; */
+	/* border-radius: none; */
+    }
 }
 
 header>.container, #content, footer {
@@ -26,18 +37,39 @@ article header {
     margin-bottom: 0;
 }
 
-.navbar-brand { color: white; font-family: 'Covered By Your Grace',
-    cursive; text-shadow: 0px 0px 8px #000;
+header[role='banner'] {
+    padding-top: 2em;
+    padding-bottom: 2em;
+}
+.navbar-brand {
+    color: white;
+    font-family: 'Covered By Your Grace', cursive; 
+    text-shadow: 0px 0px 8px #000;
 
-    line-height: 2.5em;
     font-size: 5em;
     font-weight: bold;
     letter-spacing: -1px;
     white-space: nowrap;
 
     padding-left: 0;
-    float: none;
 }
+
+
+#om {
+   text-align: right;
+}
+#om>a {
+    color: white;
+    font-size: 150%;
+    font-family: 'Covered By Your Grace';
+    font-style: italic;
+        
+    background: rgba(100, 100, 100, 0.5);
+    padding: 0.4em;
+    white-space: nowrap;
+    border-radius: 0.2em;
+}
+
 a.navbar-brand:visited, a.navbar-brand:hover {
     color: white;
 }
@@ -55,7 +87,8 @@ a.navbar-brand:visited, a.navbar-brand:hover {
 }
 
 .figure>.caption {
-    font-size: small;
+    font-family: 'Covered By Your Grace';
+    font-size: medium;
     margin: 0.4em 0px 0px 0px;
 }
 
