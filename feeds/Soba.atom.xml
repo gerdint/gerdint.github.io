@@ -4,13 +4,13 @@
  <link rel="self" href="http://tger.github.io/feeds/Soba.atom.xml" />
  <link href="http://tger.github.io/tags/Soba.html" />
  <id>urn:http-tger-github-io:-tags-Soba-html</id>
- <updated>2015-08-19T09:09:30Z</updated>
+ <updated>2015-08-26T09:09:30Z</updated>
  <entry>
   <title type="text">Soba</title>
   <link rel="alternate" href="http://tger.github.io/2015/08/soba.html?utm_source=Soba&amp;utm_medium=Atom" />
   <id>urn:http-tger-github-io:-2015-08-soba-html</id>
-  <published>2015-08-19T09:09:30Z</published>
-  <updated>2015-08-19T09:09:30Z</updated>
+  <published>2015-08-26T09:09:30Z</published>
+  <updated>2015-08-26T09:09:30Z</updated>
   <author>
    <name>Tobias Gerdin</name></author>
   <content type="html">&lt;html&gt;
@@ -20,6 +20,13 @@
 &lt;p&gt;Det var under ett år som utbytesstudent i Tokyo för drygt 10 år sedan som vi träffades. Jag tror att det var under en av min många planlösa cykelturer, i en av de där kvartersnudelrestaurangerna som det finns i runda slängar 100 000 av i Japan. Det var kärlek vid första ögonkastet. Eller kanske snarare första tuggan.&lt;/p&gt;
 
 &lt;p&gt;De tunnt skurna bovetenudlarna tillsammans med såsens sälta, söt- och rökighet hade en utsökt, harmonisk smak som naturligtvis inte går att beskriva med ord. Om du ännu inte har ätit din första portion av färska, handgjorda sobanudlar så är jag avundsjuk på dig. Det är en uppenbarelse.&lt;/p&gt;
+&lt;!-- &lt;div class="figure"&gt;--&gt;
+&lt;!-- 	&lt;img src="/img/Kamakura-soba.jpg" alt="Soba"&gt;--&gt;
+&lt;!-- 	&lt;p class="caption"&gt;Tanzaburo&lt;/p&gt;--&gt;
+&lt;!-- &lt;/div&gt;--&gt;
+
+&lt;div class="figure"&gt;&lt;img src="img/Kamakura-soba.jpg" alt="" title="Soba" /&gt;
+ &lt;p class="caption"&gt;&lt;/p&gt;&lt;/div&gt;
 
 &lt;p&gt;När någon frågade vad min favoritmat var i Japan (en bekväm och inte helt ovanlig fråga under mina första månadernas stapplande konversationer) så kunde jag utan eftertanke svara &amp;ldquo;zarusoba&amp;rdquo;. &lt;em&gt;Zarusoba&lt;/em&gt; (kallas även &lt;em&gt;morisoba&lt;/em&gt; eller &lt;em&gt;sērosoba&lt;/em&gt;&lt;sup&gt;&lt;a href="#2015-08-19-soba-footnote-1-definition" name="2015-08-19-soba-footnote-1-return"&gt;1&lt;/a&gt;&lt;/sup&gt;) är det traditionella och fortfarande mest populära sättet att äta soba på i Japan: Kokta, avkylda nudlar som man doppar i en tämligen intensiv soja- och dashibuljongbaserad&lt;sup&gt;&lt;a href="#2015-08-19-soba-footnote-2-definition" name="2015-08-19-soba-footnote-2-return"&gt;2&lt;/a&gt;&lt;/sup&gt; sås, gärna tillsammans med strimlade norialger&lt;sup&gt;&lt;a href="#2015-08-19-soba-footnote-3-definition" name="2015-08-19-soba-footnote-3-return"&gt;3&lt;/a&gt;&lt;/sup&gt; och ofta även japansk salladslök&lt;sup&gt;&lt;a href="#2015-08-19-soba-footnote-4-definition" name="2015-08-19-soba-footnote-4-return"&gt;4&lt;/a&gt;&lt;/sup&gt; och wasabi&lt;sup&gt;&lt;a href="#2015-08-19-soba-footnote-5-definition" name="2015-08-19-soba-footnote-5-return"&gt;5&lt;/a&gt;&lt;/sup&gt;.&lt;/p&gt;
 &lt;!-- Tidigare var det åtminstonde i Skåne vanligt att man odlade bovete. Vart det sedan tog vägen vet jag inte och så länge jag har levat och troligen ett antal decennier innan dess så har bovete inte utgjort något större inslag i den svenska kosten. På senare år har dock importerat bovetemjöl och torkade sobanudlar blivit tillgängliga och sedan några år tillbaka bedrivs återigen kommersiell odling av bovete i Sverige.[^3] Här hade jag inte tänkt orda om bovetets alla påtalade hälsobringade effekter (det kan man nog läsa om på andra ställen), men själv har jag haft privilegiet att äta färsk soba mer eller mindre varje dag de senaste fem månaderna och jag verkar inte alls tröttna på det, snarare tvärtom.--&gt;
@@ -31,7 +38,7 @@
   &lt;li id="2015-08-19-soba-footnote-2-definition" class="footnote-definition"&gt;
    &lt;p&gt;Japanska kökets grundbuljong, ett ämne for ett framtida inlägg.&amp;nbsp;&lt;a href="#2015-08-19-soba-footnote-2-return"&gt;↩&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
   &lt;li id="2015-08-19-soba-footnote-3-definition" class="footnote-definition"&gt;
-   &lt;p&gt;Samma typ som används för sushirullar, fast finskuren.&amp;nbsp;&lt;a href="#2015-08-19-soba-footnote-3-return"&gt;↩&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+   &lt;p&gt;Samma typ som används för sgushirullar, fast finskuren.&amp;nbsp;&lt;a href="#2015-08-19-soba-footnote-3-return"&gt;↩&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
   &lt;li id="2015-08-19-soba-footnote-4-definition" class="footnote-definition"&gt;
    &lt;p&gt;Det svenska namnet lär vara &lt;a href="https://sv.wikipedia.org/wiki/Pipl%C3%B6k"&gt;piplök&lt;/a&gt;.  &lt;!-- [^3]: T ex på Råglanda gård utanför Molkom i Värmland--&gt;&amp;nbsp;&lt;a href="#2015-08-19-soba-footnote-4-return"&gt;↩&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
   &lt;li id="2015-08-19-soba-footnote-5-definition" class="footnote-definition"&gt;

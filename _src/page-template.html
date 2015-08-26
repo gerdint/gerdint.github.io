@@ -78,6 +78,9 @@
 
           @;{ The main page contents are in @contents }
           @|contents|
+
+	  @(when (string-ci=? uri-path (string-append uri-prefix "/Om.html"))
+         	  @list{om-sidan}) 
         </div>
       </div>
       

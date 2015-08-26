@@ -13,7 +13,6 @@ Sedan tre månader tillbaka så befinner jag mig i Japan. Att åka tillbaka till
 <!-- more -->
 
 Det var inte mycket som gick att planera i förväg men allting har löst sig oförskämt bra. Efter båtresa från Shanghai till Osaka, några dagar i fantastiska Kyoto och ett par veckor hos gamla vänner i Tokyo så vad jag och provjobbade på en [soba](https://sv.wikipedia.org/wiki/Soba)restaurang i utkanten av västra Tokyo.
-
 <div class="figure pull-right">
 	<img src="/img/Tanzaburo.jpg" alt="Tanzaburo">
 	<p class="caption">Tanzaburo</p>
