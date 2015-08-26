@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?> 
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
  <title type="text">Vita tummar: Vita tummar</title>
- <link rel="self" href="http://tger.github.io/feeds/all.atom.xml" />
- <link href="http://tger.github.io/index.html" />
- <id>urn:http-tger-github-io:-index-html</id>
+ <link rel="self" href="http://vitatummar.se/feeds/all.atom.xml" />
+ <link href="http://vitatummar.se/index.html" />
+ <id>urn:http-vitatummar-se:-index-html</id>
  <updated>2015-08-26T09:09:30Z</updated>
  <entry>
   <title type="text">Soba</title>
-  <link rel="alternate" href="http://tger.github.io/2015/08/soba.html?utm_source=all&amp;utm_medium=Atom" />
-  <id>urn:http-tger-github-io:-2015-08-soba-html</id>
+  <link rel="alternate" href="http://vitatummar.se/2015/08/soba.html?utm_source=all&amp;utm_medium=Atom" />
+  <id>urn:http-vitatummar-se:-2015-08-soba-html</id>
   <published>2015-08-26T09:09:30Z</published>
   <updated>2015-08-26T09:09:30Z</updated>
   <author>
@@ -20,13 +20,9 @@
 &lt;p&gt;Det var under ett år som utbytesstudent i Tokyo för drygt 10 år sedan som vi träffades. Jag tror att det var under en av min många planlösa cykelturer, i en av de där kvartersnudelrestaurangerna som det finns i runda slängar 100 000 av i Japan. Det var kärlek vid första ögonkastet. Eller kanske snarare första tuggan.&lt;/p&gt;
 
 &lt;p&gt;De tunnt skurna bovetenudlarna tillsammans med såsens sälta, söt- och rökighet hade en utsökt, harmonisk smak som naturligtvis inte går att beskriva med ord. Om du ännu inte har ätit din första portion av färska, handgjorda sobanudlar så är jag avundsjuk på dig. Det är en uppenbarelse.&lt;/p&gt;
-&lt;!-- &lt;div class="figure"&gt;--&gt;
-&lt;!-- 	&lt;img src="/img/Kamakura-soba.jpg" alt="Soba"&gt;--&gt;
-&lt;!-- 	&lt;p class="caption"&gt;Tanzaburo&lt;/p&gt;--&gt;
-&lt;!-- &lt;/div&gt;--&gt;
 
-&lt;div class="figure"&gt;&lt;img src="img/Kamakura-soba.jpg" alt="" title="Soba" /&gt;
- &lt;p class="caption"&gt;&lt;/p&gt;&lt;/div&gt;
+&lt;div class="figure"&gt;&lt;img src="/img/Kamakura-soba.jpg" alt="Soba" title="Soba" /&gt; 	
+ &lt;p class="attribution"&gt;Foto av Satoru Takahashi&lt;/p&gt;&lt;/div&gt;
 
 &lt;p&gt;När någon frågade vad min favoritmat var i Japan (en bekväm och inte helt ovanlig fråga under mina första månadernas stapplande konversationer) så kunde jag utan eftertanke svara &amp;ldquo;zarusoba&amp;rdquo;. &lt;em&gt;Zarusoba&lt;/em&gt; (kallas även &lt;em&gt;morisoba&lt;/em&gt; eller &lt;em&gt;sērosoba&lt;/em&gt;&lt;sup&gt;&lt;a href="#2015-08-19-soba-footnote-1-definition" name="2015-08-19-soba-footnote-1-return"&gt;1&lt;/a&gt;&lt;/sup&gt;) är det traditionella och fortfarande mest populära sättet att äta soba på i Japan: Kokta, avkylda nudlar som man doppar i en tämligen intensiv soja- och dashibuljongbaserad&lt;sup&gt;&lt;a href="#2015-08-19-soba-footnote-2-definition" name="2015-08-19-soba-footnote-2-return"&gt;2&lt;/a&gt;&lt;/sup&gt; sås, gärna tillsammans med strimlade norialger&lt;sup&gt;&lt;a href="#2015-08-19-soba-footnote-3-definition" name="2015-08-19-soba-footnote-3-return"&gt;3&lt;/a&gt;&lt;/sup&gt; och ofta även japansk salladslök&lt;sup&gt;&lt;a href="#2015-08-19-soba-footnote-4-definition" name="2015-08-19-soba-footnote-4-return"&gt;4&lt;/a&gt;&lt;/sup&gt; och wasabi&lt;sup&gt;&lt;a href="#2015-08-19-soba-footnote-5-definition" name="2015-08-19-soba-footnote-5-return"&gt;5&lt;/a&gt;&lt;/sup&gt;.&lt;/p&gt;
 &lt;!-- Tidigare var det åtminstonde i Skåne vanligt att man odlade bovete. Vart det sedan tog vägen vet jag inte och så länge jag har levat och troligen ett antal decennier innan dess så har bovete inte utgjort något större inslag i den svenska kosten. På senare år har dock importerat bovetemjöl och torkade sobanudlar blivit tillgängliga och sedan några år tillbaka bedrivs återigen kommersiell odling av bovete i Sverige.[^3] Här hade jag inte tänkt orda om bovetets alla påtalade hälsobringade effekter (det kan man nog läsa om på andra ställen), men själv har jag haft privilegiet att äta färsk soba mer eller mindre varje dag de senaste fem månaderna och jag verkar inte alls tröttna på det, snarare tvärtom.--&gt;
@@ -45,8 +41,8 @@
    &lt;p&gt;Också samma grej som används till sushi.&amp;nbsp;&lt;a href="#2015-08-19-soba-footnote-5-return"&gt;↩&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;&lt;/html&gt;</content></entry>
  <entry>
   <title type="text">Livet i bergen</title>
-  <link rel="alternate" href="http://tger.github.io/2015/07/livet-i-bergen.html?utm_source=all&amp;utm_medium=Atom" />
-  <id>urn:http-tger-github-io:-2015-07-livet-i-bergen-html</id>
+  <link rel="alternate" href="http://vitatummar.se/2015/07/livet-i-bergen.html?utm_source=all&amp;utm_medium=Atom" />
+  <id>urn:http-vitatummar-se:-2015-07-livet-i-bergen-html</id>
   <published>2015-07-29T07:07:50Z</published>
   <updated>2015-07-29T07:07:50Z</updated>
   <author>
@@ -71,8 +67,8 @@
    &lt;p&gt;Vars västerländska motsvarighet nog närmast skulle vara en kvarn eftersom där också finns maskineri för att skala och polera råris till det i Asiens så eftersuktade vita riset&amp;nbsp;&lt;a href="#2015-07-29-livet-i-bergen-footnote-1-return"&gt;↩&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;&lt;/html&gt;</content></entry>
  <entry>
   <title type="text">Japan och Tanzaburo</title>
-  <link rel="alternate" href="http://tger.github.io/2015/06/japan-och-tanzaburo.html?utm_source=all&amp;utm_medium=Atom" />
-  <id>urn:http-tger-github-io:-2015-06-japan-och-tanzaburo-html</id>
+  <link rel="alternate" href="http://vitatummar.se/2015/06/japan-och-tanzaburo.html?utm_source=all&amp;utm_medium=Atom" />
+  <id>urn:http-vitatummar-se:-2015-06-japan-och-tanzaburo-html</id>
   <published>2015-06-13T03:39:54Z</published>
   <updated>2015-06-13T03:39:54Z</updated>
   <author>
@@ -98,8 +94,8 @@
  &lt;p class="caption"&gt;Undertecknad tillsammans med tencho&lt;/p&gt;&lt;/div&gt;&lt;/html&gt;</content></entry>
  <entry>
   <title type="text">Ännu en matblogg?</title>
-  <link rel="alternate" href="http://tger.github.io/2015/02/ännu-en-matblogg.html?utm_source=all&amp;utm_medium=Atom" />
-  <id>urn:http-tger-github-io:-2015-02-ännu-en-matblogg-html</id>
+  <link rel="alternate" href="http://vitatummar.se/2015/02/ännu-en-matblogg.html?utm_source=all&amp;utm_medium=Atom" />
+  <id>urn:http-vitatummar-se:-2015-02-ännu-en-matblogg-html</id>
   <published>2015-02-04T02:41:44Z</published>
   <updated>2015-02-04T02:41:44Z</updated>
   <author>

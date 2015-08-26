@@ -93,6 +93,14 @@ a.navbar-brand:visited, a.navbar-brand:hover {
     margin: 0.4em 0px 0px 0px;
 }
 
+.figure>.attribution {
+    /* font-family: 'Covered By Your Grace'; */
+    font-size: smaller;
+    font-style: oblique;
+    margin: 0.4em 0px 0px 0px;
+}
+
+
 .figure>img {
     /* Like Boostrap .img-responsive */
     display: block;
