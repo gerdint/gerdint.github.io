@@ -1,4 +1,4 @@
-* DONE Minska marginaler kraftigt som Jekyllsajten
+ * DONE Minska marginaler kraftigt som Jekyllsajten
 * DONE Snygga till bilder
 ** Ram
 ** Skugga
@@ -11,7 +11,7 @@
 * TODO Minska storlek på bakgrundsbild?
   media query pa bredd, 2 versioner..
 * DONE Lägg till img-responsive klass till img-taggar
-* TODO om-sida med bild pa mig
+* DONE om-sida med bild pa mig
 * TODO favicon
 * TODO recaptcha widget?
 
