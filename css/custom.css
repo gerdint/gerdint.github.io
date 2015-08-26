@@ -26,7 +26,17 @@ header>.container, #content, footer {
 }
 
 h1, h2 {
+    font-family: 'Covered By Your Grace';
     margin-top: 0.1em;
+}
+h1 {
+    font-size: 44px;
+}
+h2 {
+    font-size: 40px;
+}
+h1 a, h2 a {
+    color: black;
 }
 
 article {

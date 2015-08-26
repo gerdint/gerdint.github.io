@@ -12,7 +12,8 @@
   media query pa bredd, 2 versioner..
 * DONE Lägg till img-responsive klass till img-taggar
 * DONE om-sida med bild pa mig
-* TODO favicon
+* TODO favicon - mjölig tumme!
+* TODO Roliga rubriktypsnitt + handskriva bilder senare!
 * TODO kontaktfomulär med formspree+recaptcha widget?
 
 Frog patchar
