@@ -25,3 +25,5 @@ Restaurangen ligger i bergiga och natursköna omgivningar en timme eller två me
 Tanzaburo är en tämligen populär restaurang (i synnerhet på helger och andra helgdagar) och arbetet tidvis väldigt intensivt. Kultur- och språkbarriärer finns det också gott om men överlag trivs som fisken i vattnet och är väldigt tacksam över att ha hamnat där jag är. 
 
 ![Undertecknad tillsammans med tencho](/img/Tencho-och-jag.jpg)
+
+**Uppdatering**: Min driftige vän och tillika fotograf Satoru Takahashi besökte Tanzaburo en förmiddag och knäppte en hel drös mycket fina bilder. De finns att beskåda [här](https://goo.gl/photos/JgJz6MCYobC3VbC2A). 高橋さん、めっちゃありがとうございました！

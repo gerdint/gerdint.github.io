@@ -9,7 +9,7 @@ uri-prefix = /
 # The title of the blog. Used when generating feeds.
 title = Vita tummar
 
-description = En blogg om riktiga nudlar och smaskiga tillbehör
+description = En blogg om genuin nudelkultur och halt som hör till
 
 # The author. Used when generating feeds, and provided to
 # `page-template.html` as the template variable `@author`.
@@ -71,12 +71,12 @@ auto-embed-tweets? = true
 
 # Try to automatically link symbols in Markdown ```racket fenced code
 # blocks, to Racket documentation?
-racket-doc-link-code? = true
+#racket-doc-link-code? = true
 
 # Try to automatically link Markdown of the form `symbol`[racket] to
 # Racket documentation? i.e. This is similar to the @racket[] form in
 # Scribble.
-racket-doc-link-prose? = true
+#racket-doc-link-prose? = true
 
 # The URI for the index of blog posts. Defaults to /index.html but you
 # could change to e.g. /blog/index.html or /posts-index.html, and use
