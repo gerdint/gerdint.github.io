@@ -10,4 +10,4 @@ Jag känner mig mest hemma i Östergötland men just nu bor jag i Japan.
 
 För kampen för de goda nudlarna!
 
-<!-- kontakt-formulär -->
+<!-- kontakt-formulär? -->
