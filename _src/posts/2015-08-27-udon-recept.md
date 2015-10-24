@@ -1,6 +1,6 @@
-    Title: Udon
+    Title: Udon grundrecept
     Date: 2015-08-27T12:56:54
-    Tags: DRAFT
+    Tags: DRAFT, udon, recept
 
 _Replace this with your post text. Add one or more comma-separated
 Tags above. The special tag `DRAFT` will prevent the post from being
