@@ -1,7 +1,13 @@
-all:
+all:	build
+
+build:
 	raco frog -vb
 
-setup:
+serve:
+	raco frog -vs
+
+install:
+	raco pkg install frog
 	raco pkg install --link ~/vitatummar/_src/utils
 
 deploy:

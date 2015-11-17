@@ -1,24 +1,37 @@
     Title: Wermlands Bovete
-    Date: 2015-10-25T19:18:19
-    Tags: DRAFT
+    Date: 2015-11-17T15:40:19
+    Tags: soba
 
-Sedan ett tag tillbaka är jag tillbaka i Sverige. Naturligtvis så vilje jag snarast få tag på färskt svenskt bovete, och såvida man inte odlar det själv så finns det mig veterligen bara ett ställe att vända sig till, och det är [Wermlands Bovete](http://www.wermlands-bovete.se).
+![Råglanda gård](/img/Wermlands/hus-600.jpg)
+
+Sedan ett tag tillbaka är jag tillbaka i Sverige. Naturligtvis ville jag snarast få tag på färskt svenskt bovete, och såvida man inte odlar själv så finns det mig veterligen än så länge bara ett ställe att vända sig till: [Wermlands Bovete](http://www.wermlands-bovete.se).
 
 <!-- more -->
 
-I mitt vackra omgivningar en bit utanför Molkom ligger Råglanda gård. Härs odlar sedan 7 år tillbaka Anders NIlsson  KRAV-märkt bovete som har sedan rensar och skalar säljer direkt till  företag och återförsäljare och även till konsumenter via deras [webbutik](http://www.wermlands-bovete.se).
-Anders är utbildad ingenjör och  jobbade tidigare med automation under många år[^kanada], kunskaper som har kommit väl till hands nu när Anders skördar, rensar och skalar bovete från odlingar på 200 ha. Efterfrågan på Anders bovete är stor och han även engagerad andra bönder i trakten för att kunna tillgodose denna.
-<!-- maler än så länge i Kristinehamn -->
-andersbild
+<div class="figure pull-right">
+	<img src="/img/Wermlands/Anders-300.jpg" alt="Anders" width='250px'>
+	<p class="caption">Anders Nilsson, svensk bovetepionjär i modern tid</p>
+</div>
 
-Bovete är välkännt för att trivas bra på magra jordar och
-växtföljd, vall då och då
+I vackra omgivningar en bit utanför Molkom ligger Råglanda gård. Här odlar Anders Nilsson sedan 7 år tillbaka KRAV-märkt bovete som han sedan säljer till företag och återförsäljare och även direkt till konsumenter via deras [webbutik](http://www.wermlands-bovete.se).
 
-På Råglanda gård finns även en del kor. Utan att ha gjort några efterforskningar så skulle jag tippa på att de är Sveriges enda kor som får äta bovete. Och aptiten verkar god, enligt Anders äter de var och en 50 kg bovete per dag!
+Trots att bovete har fått ett uppsving i Sverige på senare år så är det ingen ny gröda här i Norden utan odlades åtminstone redan på 1600–talet, primärt i Skåne. Enligt Anders så lär det finnas enklare saker att odla (kanske potatis som i gamla tider tydligen var det bovetet ersattes med när frosten ställde till det för mycket[^schöneck]), men har man kunskaper och vilja så verkar det uppenbarligen gå bra även i Värmland.
 
-Innan hemfärden så passade jag naturligtvis på att köpa med mig rejält med bovete att använda till nudlar och butik och kök på Jädersbruks Herrgård där jag nu huserar ett tag. Skalade och oskalade frön (de sistnämnda kan t ex groddas men även malas och användas i nudeldeg för riktigt mörka och rustika nudlar), siktat- och fullkornsmjöl samt även ett gäng säckar med boveteskal. Skalen passar mycket bra till att fylla huvud- och sittkuddar, och enligt Lola på Jädersbruk även madrasser.
-bilbild
+Anders är utbildad ingenjör och jobbade tidigare med automation under många år, kunskaper som har kommit väl till hands nu när skörden från odlingar på 200 hektar ska rensas och skalas. Efterfrågan på Anders bovete är stor så han har också andra bönder i trakten som odlar åt honom. I nuläget körs bovetet till Kristinehamn för att malas men Anders har även planer på att bygga en egen kvarn.
+<!--
+växtföljd, vall då och då.
+fullkornsmjöl - högre andel oskalade kärnor jfrt med "skalade kärnor"
+-->
 
-När vi nu har fint, nyskördat bovete så är det bara att sätta igång och göra nudlar! Behöver man lite handledning med detta så tänkte jag skriva om detta i nästa inlägg.
+På Råglanda gård finns även en del kor. Utan att ha gjort några efterforskningar så skulle jag tippa på att de är Sveriges enda kor som får äta bovete. Och aptiten verkar god, enligt Anders sätter de i sig 50 kg vardera per dag!
 
-[^kanada]: Just Kanada är för övrigt värdelns näst(?) största boveteproducent, efter Ryssland. Sveriges marknad 3500 ton
+![](/img/Wermlands/bovetekor-600.jpg)
+
+Innan hemfärden så passade jag naturligtvis på att köpa med mig rejält med bovete till köket och butiken på Jädersbruks Herrgård där jag för tillfället huserar. Skalade och oskalade kärnor[^oskalat], siktat- och fullkornsmjöl samt även ett gäng säckar med boveteskal. Skalen passar mycket bra till att fylla huvud- och sittkuddar, och på Jädersbruk lär det även finnas bovetemadrasser!
+
+![](/img/Wermlands/bagage-600.jpg)
+
+När vi nu har fint, nyskördat bovete så är det bara att sätta igång och göra nudlar! Detta tänkte jag skriva om i nästa inlägg.
+
+[^schöneck]: För mer information kring bovete och dess historik se: Schöneck, Annelies. _Säd i daglig kost_. 2:a uppl. Syrans Förlag, Arboga, 2001.
+[^oskalat]: Kan t ex groddas men även malas och användas i nudeldeg för riktigt mörka och rustika nudlar.
