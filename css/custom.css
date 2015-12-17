@@ -142,3 +142,16 @@ pre {
     white-space: pre;
     width: inherit;
 }
+
+.pull-right {
+    position: relative;
+    right: -120px;
+    margin-left: -100px;
+}
+
+.figure-right {
+    float: right !important;
+    position: relative;
+    right: -150px;
+    margin-left: -130px;
+}

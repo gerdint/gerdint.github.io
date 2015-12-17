@@ -19,7 +19,7 @@ Osamu maler sitt mjöl själv och gör tre olika sorters nudlar med 90% bovetemj
 	<dd>Nudlar på mjöl malt på handvevad stenkvarn. Hos Soba Minori siktas inte detta mjöl alls vilket ger nudlarna en oregelbunden, grov struktur och ett rustikt utseende.</dd>
 </dl>
 
-<div class="figure pull-right">
+<div class="figure figure-right">
 	<img src="/img/Minori/Osamu-och-jag.jpg" alt="Osamu och jag" width='300px'>
 	<p class="caption">Osamu med undertecknad</p>
 </div>
