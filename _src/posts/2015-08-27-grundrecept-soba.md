@@ -1,12 +1,34 @@
     Title: Grundrecept Soba
     Date: 2015-08-27T12:58:10
-    Tags: DRAFT
+    Tags: DRAFT, soba, recept
+    
+Bild på recept
 
-_Replace this with your post text. Add one or more comma-separated
-Tags above. The special tag `DRAFT` will prevent the post from being
-published._
+Om bovetemjöl
+-------------
+Kvaliteten på soba är verkligen helt beroende av kvalitetet på mjölet. Detta gäller ju förvisso alltid när man lagar mat, men känns extra sant för just soba[^nyb]. Man förlitas sig inte på en jäsningprocess för att utveckla smaker och bovetets smak i sig är mycket flyktig. Gör man soba på 100% bovetemjöl så är man också beroende av viskositeten i bovetes stärkelse som bindningsmedel i nudlarna då bovete som bekant inte innehåller något gluten.
 
-<!-- more -->
+Även om det anses vara svårare att lyckas med soba än rena vetenudlar så är det på flera sätt ändå väldigt bra att att börja med göra soba. Tillvägsgångssättet är detsamma med skillnaden att degen varken behöver eller vinner på att ligga och vila och hela förloppet därför går mycket snabbare, och känner man sig inte nöjd eller bara vill man ha lite extra övning så går det faktiskt att bra knåda ihop sina färdigskurvna nudlar till en boll, kanske tillsätta lite vatten i degen och börja om från början igen!
+
+till skillnad från att bra vetenudlar som i likhet med surdegsbrödsbakning förutsätter långa liggtider för att utveckla smak och styrka i degen. Bryta ner gluten -- göra lättsmält?
+
+Material
+===========
+* bakbord
+* degbunke (gärna stor!)
+* kavel
+* skärbräda
+* kniv
+* låda att förvara färdiga nudlar
+
+Ingredienser (ger cirka 450g färdiga nudlar, tillräckligt för tre rejäla portioner eller fyra mer beskedliga)
+============
+240g bovetemjöl
+60g siktat dinkel- eller vetemjöl
+rumstempererat vatten (cirka 150g eller 1,5 dl) 
+
+Tillvägagångssätt
+=================
 
 1. blanda deg och knåda
 * häll i 70% av vattnet i mjölet
@@ -32,3 +54,5 @@ bilder: tillplattad ciruklär deg, fyrkant, rektangel
 * mjöla övre halvan och vik på hälften bort från dig
 * mjöla skärbräda ordentligt och lägg den vikta degen där
 * skär med kniv och komaita
+
+[^nyb]:  Det sägs att en nybörjare med bra bovetemjöl kan göra bättre soba än en expert med undermåligt mjöl, och enligt mina erfarenheter så verkar detta stämma väl.
