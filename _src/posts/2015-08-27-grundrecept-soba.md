@@ -6,9 +6,12 @@ Bild på recept
 
 Om bovetemjöl
 -------------
-Kvaliteten på soba är verkligen helt beroende av kvalitetet på mjölet. Detta gäller ju förvisso alltid när man lagar mat, men känns extra sant för just soba[^nyb]. Man förlitas sig inte på en jäsningprocess för att utveckla smaker och bovetets smak i sig är mycket flyktig. Gör man soba på 100% bovetemjöl så är man också beroende av viskositeten i bovetes stärkelse som bindningsmedel i nudlarna då bovete som bekant inte innehåller något gluten.
+Sobanudlars smak och konsistens är verkligen helt beroende av kvalitetet på mjölet. Detta gäller förvisso vid all matlagning, men känns extra sant för just soba[^nyb]. Man förlitar sig inte på en jäsningprocess för att utveckla smaker och bovetets smak i sig är mycket flyktig. Gör man soba på bara bovetemjöl så är man också beroende av viskositeten i bovetes stärkelse som bindningsmedel för nudlarna då bovete som bekant inte innehåller något gluten.
 
 Även om det anses vara svårare att lyckas med soba än rena vetenudlar så är det på flera sätt ändå väldigt bra att att börja med göra soba. Tillvägsgångssättet är detsamma med skillnaden att degen varken behöver eller vinner på att ligga och vila och hela förloppet därför går mycket snabbare, och känner man sig inte nöjd eller bara vill man ha lite extra övning så går det faktiskt att bra knåda ihop sina färdigskurvna nudlar till en boll, kanske tillsätta lite vatten i degen och börja om från början igen!
+
+Proportionen mellan bovete- och dinkel/vetemjöl väljer man själv efter tycke, smak och ev. erfarenhetsnivå. Glutenet i vetemjölet ger nudlarna lite mera bit och ger en starkare och mer lätthanterlig deg. Proportionerna i receptet nedan, 80% bovete och 20% är dem för 
+nedan - ni-hachi
 
 till skillnad från att bra vetenudlar som i likhet med surdegsbrödsbakning förutsätter långa liggtider för att utveckla smak och styrka i degen. Bryta ner gluten -- göra lättsmält?
 
@@ -30,7 +33,7 @@ rumstempererat vatten (cirka 150g eller 1,5 dl)
 Tillvägagångssätt
 =================
 
-1. blanda deg och knåda
+## Degblandning och knådning
 * häll i 70% av vattnet i mjölet
 * blanda ihop till "panko"
 * tillsätt resten av vattnet
@@ -40,7 +43,7 @@ Tillvägagångssätt
 * knåda lite mer, knåda in kanterna (菊練り：きくねり), tryck ut luft genom att forma till pyramid
 bilder: deg panko, deg innan hopsamling, knådad deg
 
-2. kavla ut
+## Utkavling
 * mjöla bakbordet ordenligt, tryck ut pyramiden med handflatorna och fortsätt att
 platta till degklumpen med kavel. kavla från mitten och spara deg i mitten (tefatsform)
 * trä ev. upp degen på kaveln och tryck på den lätt 3-5 ggr i 2-4 riktningar
@@ -48,7 +51,7 @@ platta till degklumpen med kavel. kavla från mitten och spara deg i mitten (tef
 * kavla ut degen på längden
 bilder: tillplattad ciruklär deg, fyrkant, rektangel
 
-3. skär
+## Uppskärning
 * mjöla vänster halva och vik degen på längden
 * mjöla undre halvan och vik igen på hälften mot dig
 * mjöla övre halvan och vik på hälften bort från dig
