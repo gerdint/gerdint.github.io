@@ -10,8 +10,7 @@ Sobanudlars smak och konsistens är verkligen helt beroende av kvalitetet på mj
 
 Även om det anses vara svårare att lyckas med soba än rena vetenudlar så är det på flera sätt ändå väldigt bra att att börja med göra soba. Tillvägsgångssättet är detsamma med skillnaden att degen varken behöver eller vinner på att ligga och vila och hela förloppet därför går mycket snabbare, och känner man sig inte nöjd eller bara vill man ha lite extra övning så går det faktiskt att bra knåda ihop sina färdigskurvna nudlar till en boll, kanske tillsätta lite vatten i degen och börja om från början igen!
 
-Proportionen mellan bovete- och dinkel/vetemjöl väljer man själv efter tycke, smak och ev. erfarenhetsnivå. Glutenet i vetemjölet ger nudlarna lite mera bit och ger en starkare och mer lätthanterlig deg. Proportionerna i receptet nedan, 80% bovete och 20% är dem för 
-nedan - ni-hachi
+Proportionen mellan bovete- och dinkel/vetemjöl väljer man själv efter tycke och smak. Glutenet i vetemjölet ger nudlarna lite mera bit och en starkare och mer lätthanterlig deg. Proportionerna i receptet nedan är de för *ni hachi* soba [^kanji]　med 80% bovete och 20% vete vilket ger en relativt lätthanterlig deg som ändå har mycket bovetekaraktär. Men här gör man som man vill, kanske 70/30%, 90/10% eller 100% bovete. 
 
 till skillnad från att bra vetenudlar som i likhet med surdegsbrödsbakning förutsätter långa liggtider för att utveckla smak och styrka i degen. Bryta ner gluten -- göra lättsmält?
 
@@ -59,3 +58,4 @@ bilder: tillplattad ciruklär deg, fyrkant, rektangel
 * skär med kniv och komaita
 
 [^nyb]:  Det sägs att en nybörjare med bra bovetemjöl kan göra bättre soba än en expert med undermåligt mjöl, och enligt mina erfarenheter så verkar detta stämma väl.
+[^kanji]: Med kinesiska tecken 二八, dvs "2-8".
