@@ -10,7 +10,7 @@ Sobanudlars smak och konsistens är verkligen helt beroende av kvalitetet på mj
 
 Även om det anses vara svårare att lyckas med soba än rena vetenudlar så är det på flera sätt ändå väldigt bra att att börja med göra soba. Tillvägsgångssättet är detsamma med skillnaden att degen varken behöver eller vinner på att ligga och vila och hela förloppet därför går mycket snabbare, och känner man sig inte nöjd eller bara vill man ha lite extra övning så går det faktiskt att bra knåda ihop sina färdigskurvna nudlar till en boll, kanske tillsätta lite vatten i degen och börja om från början igen!
 
-Proportionen mellan bovete- och dinkel/vetemjöl väljer man själv efter tycke och smak. Glutenet i vetemjölet ger nudlarna lite mera bit och en starkare och mer lätthanterlig deg. Proportionerna i receptet nedan är de för *ni hachi* soba [^kanji]　med 80% bovete och 20% vete vilket ger en relativt lätthanterlig deg som ändå har mycket bovetekaraktär. Men här gör man som man vill, kanske 70/30%, 90/10% eller 100% bovete. 
+Proportionen mellan bovete- och dinkel/vetemjöl väljer man själv efter tycke och smak. Glutenet i vetemjölet ger nudlarna lite mera bit och en starkare och mer lätthanterlig deg. Proportionerna i receptet nedan är de för *ni hachi* soba [^kanji]　med 80% bovete och 20% vete vilket ger en relativt lätthanterlig deg som ändå har mycket bovetekaraktär. Men här gör man som man vill, kanske 70/30%, 90/10% eller helt enkelt 100% bovete.
 
 till skillnad från att bra vetenudlar som i likhet med surdegsbrödsbakning förutsätter långa liggtider för att utveckla smak och styrka i degen. Bryta ner gluten -- göra lättsmält?
 
@@ -28,12 +28,16 @@ Ingredienser (ger cirka 450g färdiga nudlar, tillräckligt för tre rejäla por
 240g bovetemjöl
 60g siktat dinkel- eller vetemjöl
 rumstempererat vatten (cirka 150g eller 1,5 dl) 
+mjöl för pudring
 
 Tillvägagångssätt
 =================
 
 ## Degblandning och knådning
-* häll i 70% av vattnet i mjölet
+* Häll allt mjöl i en den största blandarkål som du har (gärna bred och låg).
+* Ofta kan blandarskålat 
+* Om mjölet inte är nymalet så Sikta ner mjölet i bunken om ej nymalet
+* häll i 70-80% av vattnet i mjölet
 * blanda ihop till "panko"
 * tillsätt resten av vattnet
 * fortsätt blanda till golfbollar
