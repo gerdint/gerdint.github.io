@@ -34,16 +34,16 @@ Tillvägagångssätt
 =================
 
 ## Degblandning och knådning
-* Häll allt mjöl i en den största blandarkål som du har (gärna bred och låg).
-* Ofta kan blandarskålat 
-* Om mjölet inte är nymalet så Sikta ner mjölet i bunken om ej nymalet
-* häll i 70-80% av vattnet i mjölet
-* blanda ihop till "panko"
-* tillsätt resten av vattnet
-* fortsätt blanda till golfbollar
-* samla ihop till degklump, knåda
-* låt ev degen vila inplastad, tvätta degbunke och händer. drick té.
-* knåda lite mer, knåda in kanterna (菊練り：きくねり), tryck ut luft genom att forma till pyramid
+* Häll allt mjöl i en den största blandarkål som du har, gärna en som är bred och låg. Om mjölet inte är nymalet och kanske har klumpat sig lite så är det bra att sikta ner det i bunken.
+* Blanda runt mjölet med fingrarna så att mjölet och ev vetemjöl blir jämnt fördelat över botten av degbunken
+* Häll i 70-80% av vattnet i en smal stråle över hela mjölytan
+* Blanda mjölet och vattnet med fingertopparna. Undvik att bilda större klumpar deg och ta bort deg större degklumpar som fastnar på fingrarna. Se till att få med mjöl på botten och kanten av degbunken. Fortsätt blanda tills strukturen på degen är grovkorning, inte olikt japanskt *panko* ströbröd.
+* Tillsätt sedan resten av vattnet[^vattenmängd] och fortsätt att blanda. Nu kan man ev vara lite tyngre på händerna och tillåta sig att skapa lite större degklumpar. När man känner att vattnet är jämnt fördelat över degen eller degklumparna är av golfbollsstorlek så samlar men ihop degen till en boll.
+* Knåda degen i en minut eller två.
+* Tryck med fingret på degen. Degen ska ge efter ganska lätt men ändå ha lite motstånd. Är den för hård tillsätter man lite mer vatten (eller blöter händerna) och fortsätter att knåda lite tills att degytan inte längre är fuktig.
+* Lägg degen i en påse eller plasta in den och låt den vila ett tag i rumstemperatur medan du tvättar degbunke och händer. Har man vetemjöl i degen så kan den gott vila lite till (en halvtimme eller så) så det finns gott om tid för att dricka en kopp té.
+* Plocka fram degen igen och fortsätt att knåda den tills att den är ytan är slät och smidig. Eftersom degen innehåller lite eller inget gluten alls så bör man knåda varsamt (gäller framförallt om man gör större degar på ett kilo eller mer). Det handlar snarare om knåda in kanterna på degen än att som en bröddeg upprepat vika hela degen över sig själv. Detta är för övrigt samma teknik som japanska keramiker använder för att knåda lera [^kikuneri] och den färdigknådade degen vill man att få se ut som en krysantemumblomma. /* 菊練り */
+* Avsluta knådningen genom att trycka i den veckade ovansidan in i degen och platta till den. /* へそ出し */
 bilder: deg panko, deg innan hopsamling, knådad deg
 
 ## Utkavling
@@ -63,3 +63,4 @@ bilder: tillplattad ciruklär deg, fyrkant, rektangel
 
 [^nyb]:  Det sägs att en nybörjare med bra bovetemjöl kan göra bättre soba än en expert med undermåligt mjöl, och enligt mina erfarenheter så verkar detta stämma väl.
 [^kanji]: Med kinesiska tecken 二八, dvs "2-8".
+[^kikuneri]
