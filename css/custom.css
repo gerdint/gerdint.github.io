@@ -152,6 +152,6 @@ pre {
 .figure-right {
     float: right !important;
     position: relative;
-    right: -150px;
-    margin-left: -130px;
+    right: -25%;
+    margin-left: -20%;
 }

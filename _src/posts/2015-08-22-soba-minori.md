@@ -20,7 +20,7 @@ Osamu maler sitt mjöl själv och gör tre olika sorters nudlar med 90% bovetemj
 </dl>
 
 <div class="figure figure-right">
-	<img src="/img/Minori/Osamu-och-jag.jpg" alt="Osamu och jag" width='300px'>
+	<img src="/img/Minori/Osamu-och-jag.jpg" alt="Osamu och jag" width='400px'>
 	<p class="caption">Osamu med undertecknad</p>
 </div>
 	
