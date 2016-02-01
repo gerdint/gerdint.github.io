@@ -9,7 +9,7 @@ uri-prefix = /
 # The title of the blog. Used when generating feeds.
 title = Vita tummar
 
-description = En blogg om genuin nudelkultur och halt som hör till
+description = En blogg om genuin nudelkultur och annat som hör till
 
 # The author. Used when generating feeds, and provided to
 # `page-template.html` as the template variable `@author`.
