@@ -110,5 +110,7 @@
     <!-- </body> JS -->
     <script type="text/javascript" src="//code.jquery.com/jquery.min.js"></script>
     <script type="text/javascript" src="@|uri-prefix|/js/bootstrap.min.js"></script>
+    @(when (string-ci=? uri-path (string-append uri-prefix "/index.html"))
+      @list{<script id="dsq-count-scr" src="//vitatummar.disqus.com/count.js" async></script>})
   </body>
 </html>

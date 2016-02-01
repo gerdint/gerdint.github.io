@@ -17,7 +17,7 @@
 * TODO [#B] kontaktfomulär med formspree+recaptcha widget?
 * TODO blogspot redirect:
   <meta content='5;url=http://blogtimenow.com' http-equiv='refresh'/>
-* TODO kommentarer -- disqus?
+* DONE kommentarer -- disqus?
 
 Frog patchar
 * TODO Patch till Frog - ta bort sitemap.txt vid clean
