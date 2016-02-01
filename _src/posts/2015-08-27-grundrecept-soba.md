@@ -4,6 +4,8 @@
     
 Bild på recept
 
+viktigt med kallvatten och färskmalet??
+
 Om bovetemjöl
 -------------
 Sobanudlars smak och konsistens är verkligen helt beroende av kvalitetet på mjölet. Detta gäller förvisso vid all matlagning, men känns extra sant för just soba[^nyb]. Man förlitar sig inte på en jäsningprocess för att utveckla smaker och bovetets smak i sig är mycket flyktig. Gör man soba på bara bovetemjöl så är man också beroende av viskositeten i bovetes stärkelse som bindningsmedel för nudlarna då bovete som bekant inte innehåller något gluten.
