@@ -8,6 +8,7 @@ Hej! Jag som skriver denna blogg heter Tobias Gerdin. Här vill jag dela med mig
 
 Jag känner mig mest hemma i Östergötland och håller vanligtvis mest till i Linköping.
 
-För kampen för de goda nudlarna!
+Om du vill komma i kontakta med mig kan du mejla till <img src='/img/mejladress.png'/><br/>
+Eller ring på *0703-853266*.
 
 <!-- kontakt-formulär? -->
