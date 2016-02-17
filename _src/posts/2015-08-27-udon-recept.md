@@ -25,8 +25,8 @@ tillvägagångssätt
     låt vila några timmar i rumstemperatur
     vik och trampa ett antal gånger 6-10
     gör avlångt, vik dubbel på längden
-    dela upp degen i mindre degstycken (typ 1,5−2 kg)
-    låt vila ett tag och forma till bollar för att det ska bli en rund form när man kavlar ut
+    dela upp degen i mindre degstycken (typ 1,2−2 kg)
+    låt vila ett tag (30 min!) för att degen ska slappna av och forma till bollar för att det ska bli en rund form när man kavlar ut
     lägg bollarna svalt och låt vila minst över natt, gärna 3-7 dagar, tills de börjar jäsat lite
     ta ut degen i god tid så att den blir rumstempererad
     trampa ut till tunn cirkel
