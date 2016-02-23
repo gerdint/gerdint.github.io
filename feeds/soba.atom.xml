@@ -1,45 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?> 
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
- <title type="text">Vita tummar: Vita tummar</title>
- <link rel="self" href="http://vitatummar.se/feeds/all.atom.xml" />
- <link href="http://vitatummar.se/index.html" />
- <id>urn:http-vitatummar-se:-index-html</id>
- <updated>2016-01-29T10:08:08Z</updated>
- <entry>
-  <title type="text">Angående SVT:s Vegorätt, mixrar och verktyg</title>
-  <link rel="alternate" href="http://vitatummar.se/2016/01/angående-svt-s-vegorätt-mixrar-och-verktyg.html?utm_source=all&amp;utm_medium=Atom" />
-  <id>urn:http-vitatummar-se:-2016-01-angående-svt-s-vegorätt-mixrar-och-verktyg-html</id>
-  <published>2016-01-29T10:08:08Z</published>
-  <updated>2016-01-29T10:08:08Z</updated>
-  <author>
-   <name>Tobias Gerdin</name></author>
-  <content type="html">&lt;html&gt;
-&lt;p&gt;&lt;em&gt;Vegorätt&lt;/em&gt; &amp;mdash; SVT:s första matprogram inriktat på vegetarisk mat har i media av vissa uppfattats kontroversiellt. I detta fallet verkar det inte ha så mycket med maten i sig att göra utan snarare den fria livsstil som de två programledarna förefaller ånjuta. Det är anmärkningsvärt hur vegetarisk mat allt som oftast har en förmåga att få heta känslor att blossa upp. Egentligen är ju detta kanske inte så märkligt eftersom vad man äter i många fall är tätt kopplat till ens identitet, och det kan ju vara känsligt att rucka på.&lt;/p&gt;
-
-&lt;p&gt;Vad jag själv tycker var mest intressant är den idag självklara platsen som en elektrisk mixer intog i programmet. De flesta av rätterna (jag räknade till åtminstone fem) tillreddes helt eller delvis med en mixer. Det känns inte som någon underdrift att påstå att mixern har revolutionerat västerländsk vegetarisk matlagning, och det är till och med svårt att tänka sig modern &lt;em&gt;raw food&lt;/em&gt; utan den. Men användandet av mixer, samt dess troligen något äldre syskon matberedaren är ju en tämligen ny förteelse. Jag har själv en och är fascinerad över med vilken bekvämlighet och snabbhet jag t.ex. kan göra min soja- och mandelmjölk men likt anammandet av all ny teknik så kan det vara på sin plats att fundera över om det inte är något som går förlorat.&lt;/p&gt;
-
-&lt;p&gt;Eftersom arbete beskattas högt i Sverige och el är förhållandevis billigt så motiveras nog användningen i professionella kök oftast av ekonomiska skäl (och på hemmafronten är nog den budgeterade tiden för matlagning i dessa tider ändå stramare).  Själv är jag inte odelat positiv till mixern och dess förmodade nödvändighet i våra kök och det finns de som väljer att inte använda dem. I det japanska tempelmatköket &lt;em&gt;Shōjin&lt;/em&gt; så gör man faktiskt en poäng av att inte använda några maskiner alls vid tillagningen av maten.&lt;sup&gt;&lt;a href="#2016-01-29-angående-vegorätt-och-blenders-footnote-1-definition" name="2016-01-29-angående-vegorätt-och-blenders-footnote-1-return"&gt;1&lt;/a&gt;&lt;/sup&gt; &lt;em&gt;Toshio Tanahashi&lt;/em&gt;, en välrenommerad shōjinkock som jag jobbade lite grann med under min senaste vistelse i Japan uttryckte det som: &amp;ldquo;Grönsaker tycker inte om mixrar&amp;rdquo;. Och på Tanzaburo användes heller inga maskiner, med undantag för en tämligen primitiv mjölblandare för större nudeldegar (och då för att blanda mjölet och vattnet, ej för knådning). Under varmare tider så var en av de populäraste desserterna glass (smaksatt med bovete!), och de två liter grädde som varje sats innehöll vispades för hand.&lt;/p&gt;
-
-&lt;p&gt;Allt detta är naturligtvis bara ännu en variant på det uråldriga temat om människan och hennes relation till sina verktyg. Jag är kanske filosofiskt lagd och har funderat kring detta en del under åren, framförallt efter att ha läst humanekologen &lt;em&gt;Alf Hornborgs&lt;/em&gt; texter om teknik och maskiner i dagens värld.&lt;sup&gt;&lt;a href="#2016-01-29-angående-vegorätt-och-blenders-footnote-2-definition" name="2016-01-29-angående-vegorätt-och-blenders-footnote-2-return"&gt;2&lt;/a&gt;&lt;/sup&gt; Den kändes som om något föll på plats när jag förra sommaren läste följade passage i kapitlet om &lt;em&gt;buddistisk ekonomi&lt;/em&gt; i &lt;em&gt;Small is Beautiful&lt;/em&gt;:&lt;sup&gt;&lt;a href="#2016-01-29-angående-vegorätt-och-blenders-footnote-3-definition" name="2016-01-29-angående-vegorätt-och-blenders-footnote-3-return"&gt;3&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
- &lt;p&gt;From the Buddhist point of view, there are therefore two types of mechanisation which must be clearly distinguished: one that enhances a man&amp;rsquo;s skill and power and one that turns the work of man over to a mechanical slave, leaving man in a position of having to serve the slave. How to tell the one from the other? &amp;lsquo;The craftsman himself.&amp;rsquo; says Ananda Coomaraswamy, a man equally competent to talk about the modem west as the ancient east, &amp;rsquo;can always, if allowed to, draw the delicate distinction between the machine and the tool.&lt;/p&gt;&lt;/blockquote&gt;
-
-&lt;p&gt;En kniv är utan tvekan ett &lt;em&gt;verktyg&lt;/em&gt;, och en mandolin likaså skulle jag säga. En mixer beror kanske på hur man använder den, men i vilket fall så skulle jag vilja slå ett slag för den anspåkslösa morteln, framförallt den räfflade och generöst dimensionerade japanska &lt;a href="https://en.wikipedia.org/wiki/Suribachi_and_surikogi"&gt;suribachin&lt;/a&gt;. Den högre friktionen gör att frön och röror far inte omkring så mycket utan stannar villigt kvar och låter sig beblandas med vad som nu erbjuds för stunden. Skaffa en och använd den för att göra sesammjölk&lt;sup&gt;&lt;a href="#2016-01-29-angående-vegorätt-och-blenders-footnote-4-definition" name="2016-01-29-angående-vegorätt-och-blenders-footnote-4-return"&gt;4&lt;/a&gt;&lt;/sup&gt; någon gång, det enda som behövs är blötlagda frön samt en halvtimme eller timma för en traditionell sesammeditation.&lt;/p&gt;
-
-&lt;div class="footnotes"&gt;
- &lt;ol&gt;
-  &lt;li id="2016-01-29-angående-vegorätt-och-blenders-footnote-1-definition" class="footnote-definition"&gt;
-   &lt;p&gt;Användadet av en fossildriven gas- och kanske t.o.m. elspis förefaller okej, men även här framhåller ju även flertalet västerländska kockar att vedelded spis ger bäst smak.&amp;nbsp;&lt;a href="#2016-01-29-angående-vegorätt-och-blenders-footnote-1-return"&gt;↩&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-  &lt;li id="2016-01-29-angående-vegorätt-och-blenders-footnote-2-definition" class="footnote-definition"&gt;
-   &lt;p&gt;Se denna &lt;a href="http://www.dn.se/dnbok/bokrecensioner/alf-hornborg/"&gt;DN-recension&lt;/a&gt; för en överblick.&amp;nbsp;&lt;a href="#2016-01-29-angående-vegorätt-och-blenders-footnote-2-return"&gt;↩&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-  &lt;li id="2016-01-29-angående-vegorätt-och-blenders-footnote-3-definition" class="footnote-definition"&gt;
-   &lt;p&gt;E. F. Schumacher: &lt;em&gt;Small Is Beautiful: A Study of Economics As If People Mattered&lt;/em&gt;, sida 52. Blond &amp;amp; Briggs, 1973. En pionjärtext inom den ekologisk ekonomin. Tillgänglig &lt;a href="http://www.ditext.com/schumacher/small/small.html"&gt;online&lt;/a&gt;.&amp;nbsp;&lt;a href="#2016-01-29-angående-vegorätt-och-blenders-footnote-3-return"&gt;↩&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-  &lt;li id="2016-01-29-angående-vegorätt-och-blenders-footnote-4-definition" class="footnote-definition"&gt;
-   &lt;p&gt;Används i Japan för att göra delikat &lt;em&gt;sesamtofu&lt;/em&gt; (japanska: &lt;a href="https://ja.wikipedia.org/wiki/%E8%83%A1%E9%BA%BB%E8%B1%86%E8%85%90"&gt;&lt;em&gt;gomadōfu&lt;/em&gt;&lt;/a&gt;). Namnet kommer av att konsistensen är tofuliknande, men smak, näringsvärde och användningsområde är ganska annorlunda. Avnjutes med fördel som den är, möjligen tillsammans med sojasås och riven ingefära.&amp;nbsp;&lt;a href="#2016-01-29-angående-vegorätt-och-blenders-footnote-4-return"&gt;↩&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;&lt;/html&gt;</content></entry>
+ <title type="text">Vita tummar: Posts tagged 'soba'</title>
+ <link rel="self" href="http://vitatummar.se/feeds/soba.atom.xml" />
+ <link href="http://vitatummar.se/tags/soba.html" />
+ <id>urn:http-vitatummar-se:-tags-soba-html</id>
+ <updated>2015-11-17T14:40:19Z</updated>
  <entry>
   <title type="text">Wermlands Bovete</title>
-  <link rel="alternate" href="http://vitatummar.se/2015/11/wermlands-bovete.html?utm_source=all&amp;utm_medium=Atom" />
+  <link rel="alternate" href="http://vitatummar.se/2015/11/wermlands-bovete.html?utm_source=soba&amp;utm_medium=Atom" />
   <id>urn:http-vitatummar-se:-2015-11-wermlands-bovete-html</id>
   <published>2015-11-17T14:40:19Z</published>
   <updated>2015-11-17T14:40:19Z</updated>
@@ -84,7 +52,7 @@ fullkornsmjöl - högre andel oskalade kärnor jfrt med "skalade kärnor"--&gt;
    &lt;p&gt;Kan t ex groddas men även malas och användas i nudeldeg för riktigt mörka och rustika nudlar.&amp;nbsp;&lt;a href="#2015-10-25-wermlands-bovete-footnote-2-return"&gt;↩&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;&lt;/html&gt;</content></entry>
  <entry>
   <title type="text">Enokido och Tororo soba</title>
-  <link rel="alternate" href="http://vitatummar.se/2015/10/enokido-och-tororo-soba.html?utm_source=all&amp;utm_medium=Atom" />
+  <link rel="alternate" href="http://vitatummar.se/2015/10/enokido-och-tororo-soba.html?utm_source=soba&amp;utm_medium=Atom" />
   <id>urn:http-vitatummar-se:-2015-10-enokido-och-tororo-soba-html</id>
   <published>2015-10-10T11:34:57Z</published>
   <updated>2015-10-10T11:34:57Z</updated>
@@ -120,7 +88,7 @@ fullkornsmjöl - högre andel oskalade kärnor jfrt med "skalade kärnor"--&gt;
    &lt;p&gt;Och tydligen också användas som bindemedel i matlagning istället för t ex ägg.&amp;nbsp;&lt;a href="#2015-10-03-enokido-footnote-4-return"&gt;↩&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;&lt;/html&gt;</content></entry>
  <entry>
   <title type="text">Soba Minori</title>
-  <link rel="alternate" href="http://vitatummar.se/2015/09/soba-minori.html?utm_source=all&amp;utm_medium=Atom" />
+  <link rel="alternate" href="http://vitatummar.se/2015/09/soba-minori.html?utm_source=soba&amp;utm_medium=Atom" />
   <id>urn:http-vitatummar-se:-2015-09-soba-minori-html</id>
   <published>2015-09-03T14:36:03Z</published>
   <updated>2015-09-03T14:36:03Z</updated>
@@ -172,7 +140,7 @@ fullkornsmjöl - högre andel oskalade kärnor jfrt med "skalade kärnor"--&gt;
    &lt;p&gt;Ungefär: Tack för maten!&amp;nbsp;&lt;a href="#2015-08-22-soba-minori-footnote-6-return"&gt;↩&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;&lt;/html&gt;</content></entry>
  <entry>
   <title type="text">Soba</title>
-  <link rel="alternate" href="http://vitatummar.se/2015/08/soba.html?utm_source=all&amp;utm_medium=Atom" />
+  <link rel="alternate" href="http://vitatummar.se/2015/08/soba.html?utm_source=soba&amp;utm_medium=Atom" />
   <id>urn:http-vitatummar-se:-2015-08-soba-html</id>
   <published>2015-08-26T16:09:30Z</published>
   <updated>2015-08-26T16:09:30Z</updated>
@@ -203,84 +171,4 @@ fullkornsmjöl - högre andel oskalade kärnor jfrt med "skalade kärnor"--&gt;
   &lt;li id="2015-08-19-soba-footnote-4-definition" class="footnote-definition"&gt;
    &lt;p&gt;Det svenska namnet lär vara &lt;a href="https://sv.wikipedia.org/wiki/Pipl%C3%B6k"&gt;piplök&lt;/a&gt;.  &lt;!-- [^3]: T ex på Råglanda gård utanför Molkom i Värmland--&gt;&amp;nbsp;&lt;a href="#2015-08-19-soba-footnote-4-return"&gt;↩&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
   &lt;li id="2015-08-19-soba-footnote-5-definition" class="footnote-definition"&gt;
-   &lt;p&gt;Också samma grej som används till sushi.&amp;nbsp;&lt;a href="#2015-08-19-soba-footnote-5-return"&gt;↩&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;&lt;/html&gt;</content></entry>
- <entry>
-  <title type="text">Livet i bergen</title>
-  <link rel="alternate" href="http://vitatummar.se/2015/07/livet-i-bergen.html?utm_source=all&amp;utm_medium=Atom" />
-  <id>urn:http-vitatummar-se:-2015-07-livet-i-bergen-html</id>
-  <published>2015-07-29T14:07:50Z</published>
-  <updated>2015-07-29T14:07:50Z</updated>
-  <author>
-   <name>Tobias Gerdin</name></author>
-  <content type="html">&lt;html&gt;
-&lt;div class="figure"&gt;&lt;img src="/img/Mitake.jpg" alt="" /&gt;
- &lt;p class="caption"&gt;&lt;/p&gt;&lt;/div&gt;
-
-&lt;p&gt;Bilden ovan är en vy av det lilla samhället där jag bor, &lt;em&gt;Mitake&lt;/em&gt;. Jag har en egen våning av traditionellt japanskt snitt i en av byggnaderna bakom träden i mitten av bilden, 10 meter ovanför floden eller så. Nästan overkligt.&lt;/p&gt;
-
-&lt;p&gt;Härifrån är det en knappt 20 minuter naturskön cykeltur till Tanzaburo, en restid som är bra mycket kortare än vad de flesta Japaner har till jobbet (lustigt nog jag är också den enda personen som cyklar till jobbet).&lt;/p&gt;
-
-&lt;p&gt;Här finns det mesta man behöver: En risaffär&lt;sup&gt;&lt;a href="#2015-07-29-livet-i-bergen-footnote-1-definition" name="2015-07-29-livet-i-bergen-footnote-1-return"&gt;1&lt;/a&gt;&lt;/sup&gt;, en elaffär, en japansk konfektyraffär, en frisör, ett par karaokebarer, en hel del restauranger och caféer samt även några hotell eftersom Mitake är ett populärt utflyktsmål på bekvämt avstånd från centrala Tokyo (en timme eller två beroende på vart i Tokyo man bor). Här finns också en 7−Eleven, och om man någon gång satt sin fot i Japan så har man nog lagt märke till att de japanska närbutikerna är synnerligen välsorterade och även har ett mycket rikt utbud av färsk färdigmat och lunchlådor (inte gourmetnivå men ändock riktig mat till skillnad från de typiskt godis- och smörgåsstinna svenska motsvarigheterna). En liten men synnerligen välsorterad mataffär med manuell fisk- och charkdisk finns på vägen till jobbet, och ett par större dito cirka 10 minuter på cykel i motsatt riktning.&lt;/p&gt;
-
-&lt;p&gt;En majoritet av restaurangerna är nudelrestauranger, och eftersom vi befinner oss i bergstrakter så är bovetenudlarna populärast. I princip alla restauranger gör egna nudlar. Typiskt helt för hand, ibland med hjälp av maskin. Det är inte heller ovanligt att bovetenudelrestauranger maler sitt eget mjöl, ibland till och med på handvevade stenkvarnar.&lt;/p&gt;
-
-&lt;p&gt;Om man tycker om nudlar så är det verkligen svårt att inte fascineras av den kvalitetsmedvetenhet och det hantverkskunnande som genomsyrar den japanska nudelkulturen. Det kliar i fingrarna för det finns verkligen massor att skriva om, håll till godo!&lt;/p&gt;
-
-&lt;div class="footnotes"&gt;
- &lt;ol&gt;
-  &lt;li id="2015-07-29-livet-i-bergen-footnote-1-definition" class="footnote-definition"&gt;
-   &lt;p&gt;Vars västerländska motsvarighet nog närmast skulle vara en kvarn eftersom där också finns maskineri för att skala och polera råris till det i Asiens så eftersuktade vita riset&amp;nbsp;&lt;a href="#2015-07-29-livet-i-bergen-footnote-1-return"&gt;↩&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;&lt;/html&gt;</content></entry>
- <entry>
-  <title type="text">Japan och Tanzaburo</title>
-  <link rel="alternate" href="http://vitatummar.se/2015/06/japan-och-tanzaburo.html?utm_source=all&amp;utm_medium=Atom" />
-  <id>urn:http-vitatummar-se:-2015-06-japan-och-tanzaburo-html</id>
-  <published>2015-06-13T10:39:54Z</published>
-  <updated>2015-06-13T10:39:54Z</updated>
-  <author>
-   <name>Tobias Gerdin</name></author>
-  <content type="html">&lt;html&gt;
-&lt;div class="figure"&gt;&lt;a href="/img/Fuji-san.jpg"&gt;&lt;img src="/img/Fuji-san-liten.jpg" class="img-responsive center-block" title="Mount Fuji" /&gt;&lt;/a&gt;&lt;/div&gt;
-
-&lt;p&gt;Sedan tre månader tillbaka så befinner jag mig i Japan. Att åka tillbaka till Japan för att ägna mig åt japanskt mathantverk har varit en dröm sedan några år tillbaka och mot slutet av förra året så kände jag att det var dags.&lt;/p&gt;
-&lt;!-- more--&gt;
-
-&lt;p&gt;Det var inte mycket som gick att planera i förväg men allting har löst sig oförskämt bra. Efter båtresa från Shanghai till Osaka, några dagar i fantastiska Kyoto och ett par veckor hos gamla vänner i Tokyo så vad jag och provjobbade på en &lt;a href="https://sv.wikipedia.org/wiki/Soba"&gt;soba&lt;/a&gt;restaurang i utkanten av västra Tokyo.&lt;/p&gt;
-
-&lt;div class="figure pull-right"&gt;&lt;img src="/img/Tanzaburo.jpg" alt="Tanzaburo" /&gt; 	
- &lt;p class="caption"&gt;Tanzaburo&lt;/p&gt;&lt;/div&gt;
-
-&lt;p&gt;Min erfarenhet av professionell nudeltillverkning inskränker sig till en femdagarskurs i Toronto i förra året så i början var det ganska nervöst. Jag fick bo hemma hos familjen som driver restaurangen och kände mig åtminstone väldigt välkommen, och märkte också snart att &lt;em&gt;tencho&lt;/em&gt; (huvudkock och pappan i familjen) var en mycket öppen och varmhjärtad person. Efter tre tidvis omtumlande men mycket inspirerande dagar så fick jag i alla fall veta att jag var välkommen tillbaka för en längre period om jag så önskade. Det krävdes inga längre överläggningar från min sida då &lt;em&gt;Tanzaburo&lt;/em&gt; (restaurangens namn) var precis ett sådant ställe som jag letade efter och sedan april är jag lycklig medarbetare samt lärling till tencho!&lt;/p&gt;
-
-&lt;p&gt;Restaurangen ligger i bergiga och natursköna omgivningar en timme eller två med tåg från centrala Tokyo. Den mer än 300 år gamla byggnaden är av traditionellt japanskt snitt och restaurangens meny likaså, dvs. fokus ligger på nudlar och tempura, men det serveras även en hel del annat, mycket av det baserat på bovete i någon form. Som hos alla traditionella japanska nudelrestauranger så görs nudlarna för hand och buljonger och nudeldoppsåser från grunden (och samma sak gäller för övrigt i princip allt som serveras). Det är tämligen arbetsintensivt men samtidigt väldigt intressant och lärorikt.&lt;/p&gt;
-
-&lt;p&gt;Tanzaburo är en tämligen populär restaurang (i synnerhet på helger och andra helgdagar) och arbetet tidvis väldigt intensivt. Kultur- och språkbarriärer finns det också gott om men överlag trivs som fisken i vattnet och är väldigt tacksam över att ha hamnat där jag är.&lt;/p&gt;
-
-&lt;div class="figure"&gt;&lt;img src="/img/Tencho-och-jag.jpg" alt="Undertecknad tillsammans med tencho" /&gt;
- &lt;p class="caption"&gt;Undertecknad tillsammans med tencho&lt;/p&gt;&lt;/div&gt;
-
-&lt;p&gt;&lt;strong&gt;Uppdatering&lt;/strong&gt;: Min driftige vän och tillika fotograf Satoru Takahashi besökte Tanzaburo en förmiddag och knäppte en hel drös mycket fina bilder. De finns att beskåda &lt;a href="https://goo.gl/photos/JgJz6MCYobC3VbC2A"&gt;här&lt;/a&gt;. 高橋さん、めっちゃありがとうございました！&lt;/p&gt;&lt;/html&gt;</content></entry>
- <entry>
-  <title type="text">Ännu en matblogg?</title>
-  <link rel="alternate" href="http://vitatummar.se/2015/02/ännu-en-matblogg.html?utm_source=all&amp;utm_medium=Atom" />
-  <id>urn:http-vitatummar-se:-2015-02-ännu-en-matblogg-html</id>
-  <published>2015-02-04T10:41:44Z</published>
-  <updated>2015-02-04T10:41:44Z</updated>
-  <author>
-   <name>Tobias Gerdin</name></author>
-  <content type="html">&lt;html&gt;
-&lt;p&gt;Jajjemän.&lt;/p&gt;
-
-&lt;p&gt;Här är det centrala temat tänkt att vara nudlar. Färska nudlar gjorda för hand. Jag tänker inte försöka dra någon gräns mellan nudlar och pasta (det är ju i grunden samma sak) men det är primärt den östasiatiska skolan &amp;mdash; i synnerhet den japanska &amp;mdash; som jag inspireras av. Kanske för att den inte bygger på durumvete och i fallet japanska nudlar knappast heller inte på ägg. Jag tycker om att använda lokala råvaror när jag lagar mat och just durumvete förefaller inte trivas så särdeles bra i vårt klimat.&lt;sup&gt;&lt;a href="#2015-02-04-ännu-en-matblogg-footnote-1-definition" name="2015-02-04-ännu-en-matblogg-footnote-1-return"&gt;1&lt;/a&gt;&lt;/sup&gt; Ägg, som ju är en klassisk ingrediens i västerländsk pasta, tillför smak, färg och extra tuggighet men likt bra bröd så känns det som om att det egentligen räcker med bara mjöl, vatten och salt.&lt;/p&gt;
-
-&lt;p&gt;Här i Sverige är termen &amp;ldquo;nudlar&amp;rdquo; för många synonymt med &lt;em&gt;snabbnudlar&lt;/em&gt; – en kaka ångade och friterade vetenudlar, ofta förpackade tillsammans med en lite påse torkat buljongpulver (vars innehållsförteckning man nog helst inte vill studera närmare). Det kan nog finnas situationer då det är på sin plats att förtära dessa men när det gäller smak och näringsinnehåll så står de sig slätt gentemot den äkta varan. Alla nudlar går dock tämligen fort att tillaga &amp;mdash; färska nudlar har oftast ännu kortare koktid är snabbnudlar. Men att göra nudlarna kräver lite mer tid i anspråk och det känns faktiskt inte helt olikt att baka surdegsbröd – typiskt ett tämligen utdraget men synnerligen rogivande och tillfredsställande projekt.&lt;sup&gt;&lt;a href="#2015-02-04-ännu-en-matblogg-footnote-2-definition" name="2015-02-04-ännu-en-matblogg-footnote-2-return"&gt;2&lt;/a&gt;&lt;/sup&gt; Kanske är detta inte så konstigt eftersom grundingredienserna är desamma. Och som med hembakat bröd så är det något speciellt med nudlar som man själv varsamt blandat, knådat, kavlat och skurit. Det smakar liksom av kärlek.&lt;/p&gt;
-
-&lt;p&gt;På tal om mjöl. Gör man sina egna nudlar så har man friheten att själv välja och experimentera med detta. Eftersom mjöl är huvudbeståndsdelen i nudlar (i än högre grad än i bröd då en nudeldeg innehåller mindre vätska än en bröddeg) så är det inte så konstigt att slutresultatet står och faller med kvaliteten på detta. Själv är jag förtjust i spelt (även känt som &lt;em&gt;dinkel&lt;/em&gt;), ensamt eller tillsammans med t.ex. råg eller bovete, vilket jag tycker ger nudlar med integritet och en djup och komplex arom.&lt;/p&gt;
-
-&lt;p&gt;Syftet med denna blogg är att dela med mig av min passion och intresse för dessa avlånga delikatesser. Också att lära känna och utbyta tips med andra nudelbitna själar i vårt vackra land (eller kanske annars inspirera till framtida sådana). Och att bidra till kampen för de goda nudlarna!&lt;/p&gt;
-
-&lt;div class="footnotes"&gt;
- &lt;ol&gt;
-  &lt;li id="2015-02-04-ännu-en-matblogg-footnote-1-definition" class="footnote-definition"&gt;
-   &lt;p&gt;När jag bodde i Göteborg för några år sedan kom jag faktiskt över lite svenskodlat durumvete från Wästgötarna, men det verkar som om de har slutat experimentera med det.&amp;nbsp;&lt;a href="#2015-02-04-ännu-en-matblogg-footnote-1-return"&gt;↩&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-  &lt;li id="2015-02-04-ännu-en-matblogg-footnote-2-definition" class="footnote-definition"&gt;
-   &lt;p&gt;Undantaget är &lt;em&gt;sobanudlar&lt;/em&gt;, som i egenskap av sin speciella sammansättning med hög proportion bovete faktiskt med fördel kan göras från mjöl till uppskurna nudlar på bara några tiotal minuter.&amp;nbsp;&lt;a href="#2015-02-04-ännu-en-matblogg-footnote-2-return"&gt;↩&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;&lt;/html&gt;</content></entry></feed>
+   &lt;p&gt;Också samma grej som används till sushi.&amp;nbsp;&lt;a href="#2015-08-19-soba-footnote-5-return"&gt;↩&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;&lt;/html&gt;</content></entry></feed>
