@@ -13,11 +13,11 @@ Ett problem som man omedelbart ställs inför när man köper helt bovete från 
 
 Inför mitt besök hade jag naturligtvis hört mig för om vi kunde göra soba och det gjorde vi! Momi gjorde soba på sin mammas[^mor] sätt, men utan tillsats av vetemjöl och det ägg som hon brukade ha i degen. Efter att nudlarna var uppskurna och kokta avnjöt vi dem med varm *tsuyu*[^tsuyu], råriven rädisa, vårlök och strimlad nori samt hemgjorda bovetebiscotti och genmaicha efteråt.
 
-![Momi kavlar soba](</img/Österlen/Momi sobauchi.jpg> "Momi gör soba")
+![Momi kavlar soba](</img/Österlen/Momi sobauchi 600.jpg> "Momi gör soba")
 
 Besöket bjöd naturligtvis också på spännande diskussioner kring bovetets historia i Skåne och framtida planer för utveckling av boveteverksamheten. En skalningsmaskin står högt upp på önskelistan, och skulle möjliggöra framställningen av bovete och mjöl i större skala, t ex till en restaurangverksamhamhet.
 
-![Gunnel, undertecknad och Momi](</img/Österlen/Gunnel, Momi och jag.jpg>)
+![Gunnel, undertecknad och Momi](</img/Österlen/Gunnel, Momi och jag 600.jpg>)
 
 På återseende, Gunnel och Momi!
 
