@@ -4,7 +4,7 @@
     
 <!-- Nudelbild -->
 
-Äntligen ska jag dela med mig ett recept på mina favoritnudlar! Men först några ord om bovetemjöl. Sobanudlars smak och konsistens verkligen står och faller med kvalitetet på mjölet.[^nyb] Man förlitar sig inte på någon jäsningprocess för att utveckla smak och smaken på bovetet i sig är tämligen flyktig. Gör man soba på bara bovetemjöl så är man också helt beroende av viskositeten i bovetes stärkelse för att resultatet ska bli nudlar överhuvudtaget då bovete inte innehåller något gluten som annars är en central bindningsingrediens i alla sorters vetenudlar.
+Äntligen ska jag dela med mig ett recept på mina favoritnudlar! Men först några ord om bovetemjöl. Sobanudlars smak och konsistens verkligen står och faller med kvalitetet på mjölet.[^nyb] Man förlitar sig inte på någon jäsningprocess för att utveckla smak och smaken på bovetet i sig är tämligen flyktig. Gör man soba på bara bovetemjöl så är man också helt beroende av viskositeten i bovetes stärkelse för att resultatet ska bli nudlar överhuvudtaget då bovete inte innehåller något gluten som annars är en central bindningsingrediens i alla sorters vetenudlar. Även här skiljer sig olika bovetemjöl väsentligt.
 
 Även om att att göra soba generellt sätt är lite mer utmanande än att göra vetenudlar så är det ändå inte fel att börja med göra soba även om man inte är så erfaren av att göra nudlar. Tillvägsgångssättet är detsamma men med fördelen att degen egentligen aldrig behöver ligga och vila så tiden från mjöl till färdiga nudlar därför är mycket kortare, bara 15 minuter om man är riktigt duktig.[^övning] Jämfört med vetenudlar är degen också påtagligt mjukare och mer lättarbetad, ungefär som en vetebrödsdeg.
 
