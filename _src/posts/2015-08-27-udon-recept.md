@@ -8,10 +8,9 @@ published._
 
 <!-- more -->
 
-Om man vill pröva på att göra nudlar själv så är udonnudlar utmärkta att börja med. Ingredienserna är enklast möjliga och degen tämligen förlåtande och de lämpar sig väl att göra helt för hand.
+Som jag skrev i receptet för [sobanudlar](/2016/07/grundrecept-för-soba.html) så kan man gott och väl påbörja sina nudeläventyr med dem, men udonnudlar är också ett utmärkt val och i Japan så är det också ofta dem man börjar med. Ingredienserna är enklast möjliga och degen tål hårda (och även ovarsamma) tag. Men för att resultatet ska bli bra och gott krävs lite tålamod då degen verkligen vinner på långa vilotider.
 
 
-I likhet med mycket annat inom nudelsvängen så härstammar udonnudlarna från Kina, troligtvis från wontonnudeln (som om man är lite bekant med kinesikt och japanskt uttal nästa kan gissa sig till från namnet).
 
 
 Om man inte är van nudelbagare så kan det vara klokt att göra små satser i början. Receptet nedan är för två portioner `a 100 g. Mindre deg än så går knappast att knåda.
