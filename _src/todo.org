@@ -1,2 +1,5 @@
-* TODO Flyt bilder åt höger
+ * TODO Flyt bilder åt höger
 http://askthecssguy.com/articles/nudging-elements-with-position-relative/
+* TODO ansvarsfulla bilder
+  skala med imagemagick vid bygg (om inte fil finns och mtime inte är nyare än fil)
+  https://css-tricks.com/responsive-images-youre-just-changing-resolutions-use-srcset/
