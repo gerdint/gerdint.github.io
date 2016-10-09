@@ -3,8 +3,17 @@ all:	build
 build:
 	raco frog -vb
 
+build-dev:
+	racket ../frog/frog/frog.rkt -vb
+
+clean:
+	raco frog -vc
+
+clean-dev:
+	racket ../frog/frog/frog.rkt -vc
+
 serve:
-	raco frog -vs
+	raco frog -vws
 
 install:
 	raco pkg install frog

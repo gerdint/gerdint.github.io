@@ -2,7 +2,7 @@
     Date: 2015-11-17T15:40:19
     Tags: soba
 
-![Råglanda gård](/img/Wermlands/hus-600.jpg)
+![Råglanda gård](/img/Wermlands/hus.jpg)
 
 Sedan ett tag tillbaka är jag tillbaka i Sverige. Naturligtvis ville jag snarast få tag på färskt svenskt bovete, och såvida man inte odlar själv så finns det mig veterligen än så länge bara ett ställe att vända sig till: [Wermlands Bovete](http://www.wermlands-bovete.se).
 
@@ -25,11 +25,11 @@ fullkornsmjöl - högre andel oskalade kärnor jfrt med "skalade kärnor"
 
 På Råglanda gård finns även en del kor. Utan att ha gjort några efterforskningar så skulle jag tippa på att de är Sveriges enda kor som får äta bovete. Och aptiten verkar god, enligt Anders sätter de i sig 50 kg vardera per dag!
 
-![](/img/Wermlands/bovetekor-600.jpg)
+![](/img/Wermlands/bovetekor.jpg)
 
 Innan hemfärden så passade jag naturligtvis på att köpa med mig rejält med bovete till köket och butiken på Jädersbruks Herrgård där jag för tillfället huserar. Skalade och oskalade kärnor[^oskalat], siktat- och fullkornsmjöl samt även ett gäng säckar med boveteskal. Skalen passar mycket bra till att fylla huvud- och sittkuddar, och på Jädersbruk lär det även finnas bovetemadrasser!
 
-![](/img/Wermlands/bagage-600.jpg)
+![](/img/Wermlands/bagage.jpg)
 
 När vi nu har fint, nyskördat bovete så är det bara att sätta igång och göra nudlar! Detta tänkte jag skriva om i nästa inlägg.
 
