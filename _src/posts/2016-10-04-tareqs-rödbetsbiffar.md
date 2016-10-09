@@ -25,5 +25,5 @@ att de får fin stekyta. Lägg över dem i en ugnsfast form och stek färdigt i 
 
 Smaklig spis!
 
-![Biff med mos, gurksallad, rödbetsplats och kantareller](</img/mat/rödbetsbiffar med mos.jpg>)
+![Biff med mos, gurksallad, rödbetsplats och kantareller](</img/mat/Rödbetsbiffar med mos.jpg>)
 
