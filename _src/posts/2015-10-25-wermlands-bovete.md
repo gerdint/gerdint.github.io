@@ -9,7 +9,7 @@ Sedan ett tag tillbaka är jag tillbaka i Sverige. Naturligtvis ville jag snaras
 <!-- more -->
 
 <div class="figure pull-right">
-	<img src="/img/Wermlands/Anders-300.jpg" alt="Anders" width='250px'>
+	<img src="/img/Wermlands/Anders.jpg" alt="Anders" width='250px' sizes='250px'>
 	<p class="caption">Anders Nilsson, svensk bovetepionjär i modern tid</p>
 </div>
 
