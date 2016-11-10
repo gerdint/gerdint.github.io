@@ -4,13 +4,13 @@ build:
 	raco frog -vb
 
 build-dev:
-	racket ../frog/frog/frog.rkt -vb
+	racket ../frog/frog/frog.rkt -Vb
 
 clean:
 	raco frog -vc
 
 clean-dev:
-	racket ../frog/frog/frog.rkt -vc
+	racket ../frog/frog/frog.rkt -Vc
 
 serve:
 	raco frog -vws
