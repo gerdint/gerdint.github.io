@@ -17,7 +17,7 @@ serve:
 
 install:
 	raco pkg install frog
-	raco pkg install --link ~/vitatummar/_src/utils
+	raco pkg install --link ~/Vita\ tummar/_src/utils
 
 deploy:
 	#git tag -a 'deploj'
