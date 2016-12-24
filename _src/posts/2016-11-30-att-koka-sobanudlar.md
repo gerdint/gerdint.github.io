@@ -51,5 +51,4 @@ Tack till Kaspar på [Fee Fi Fo Fum](http://feefifofum.se/) för lån av kök oc
 
 [^1]: Eller om man både vill äta kakan och ha den kvar så gör man som på [Tanzaburo](/2015/06/japan-och-tanzaburo.html): Lägg i hälften av nudlarna, starta timern efter 5 s, vänta 5 s till och lägg i resten.
 [^2]: Detta mjöl löses mestadels ut i vattnet under kokning, men kokar man många omgångar nudlar i samma kokvatten så tjocknar vattnet allt mer och kan så småningom brännas vid i botten av kastrullen (eller nudelkokaren). Detta gör att kokvattnet, och därmed de kokta nudlarna, smakar bränt --- inte så gott!
-
-[^3]: Se t ex [http://www.nytimes.com/2009/02/25/dining/25curi.html](How Much Water Does Pasta Really Need?)
+[^3]: Se t ex [How Much Water Does Pasta Really Need?)](http://www.nytimes.com/2009/02/25/dining/25curi.html)
