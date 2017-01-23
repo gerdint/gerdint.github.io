@@ -4,7 +4,7 @@ build:
 	raco frog -vb
 
 build-dev:
-	racket ../frog/frog/frog.rkt -Vb
+	racket ../frog/frog/frog.rkt -Vbw
 
 clean:
 	raco frog -vc
