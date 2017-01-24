@@ -12,12 +12,12 @@ Därefter en tur in i Tims misokällare, där man troligtvis hittar Sverige bred
 
 ![Paradiset i Sverige för misoälskare](</img/Hos Tim/Tims miso.jpg>)
 
-Sedan följde en lång fikastund tillsammans med Tims fru Anna Lena och makrobiotikläraren Tomoko Ogawa som följt med mig dagen till ära. Det bjöds bland annat på hemsyrada gurkor och kimchi, Tomokos makrobiotiska aprikoskaka samt provsmaking av ört-, korn- och kikärtsmiso, inklusive en 24-årig(!) rismiso (med en mycket intensiv och kraftfull smak och troligtvis innehållande en icke-försumbar del alkohol).
+Sedan följde en lång fikastund tillsammans med Tims fru Anna Lena och makrobiotikläraren Tomoko Ogawa som följt med mig dagen till ära. Det bjöds bland annat på hemsyrada gurkor och kimchi, Tomokos makrobiotiska aprikoskaka samt provsmakning av ört-, korn- och kikärtsmiso, inklusive en 24-årig(!) rismiso (med en mycket intensiv och kraftfull smak och troligtvis innehållande en icke-försumbar del alkohol).
 
 ![Tomoko och Tim](</img/Hos Tim/Tomoko och Tim.jpg>)
 ![24-årsmiso](</img/Hos Tim/24-årig miso.jpg>)
 
-Efter åtskilliga timmars diskussion om miso, Tims liv och företagande inom mathantverk började det bli dags att styra kosan hem. Men innan dess passade vi på att handla lite koji och fick också med oss en varsin burk 2-årig kornmiso och en av Tims pumpor. Av en händelse råkor de sistnämnda vara de centrala ingredienserna i Tims favoriträtt --- misopumpasoppa (med sobanudlar! 😊).
+Efter åtskilliga timmars diskussion om miso, Tims liv och företagande inom mathantverk började det bli dags att styra kosan hem. Men innan dess passade vi på att handla lite koji och fick också med oss varsin burk 2-årig kornmiso och en av Tims pumpor. Av en händelse råkar de sistnämnda vara de centrala ingredienserna i Tims favoriträtt --- misopumpasoppa (med sobanudlar! 😊).
 
 Om man vill lära sig mer om hur man gör egen miso och koji så är Tims [blogg](https://timogarden.wordpress.com/) (engelska) en av de absolut bästa resurserna! Och vad sägs om att någon börjar kommersiell tillverkning av svensk miso igen? Det behövs!
 
