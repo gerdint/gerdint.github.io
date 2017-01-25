@@ -21,5 +21,5 @@ Efter åtskilliga timmars diskussion om miso, Tims liv och företagande inom mat
 
 Om man vill lära sig mer om hur man gör egen miso och koji så är Tims [blogg](https://timogarden.wordpress.com/) (engelska) en av de absolut bästa resurserna! Och vad sägs om att någon börjar kommersiell tillverkning av svensk miso igen? Det behövs!
 
-[^koji]: Koji är en bakteriekultur som typiskt inokuleras på ris, korn eller sojabönor.
+[^koji]: Koji är en mögelkultur som typiskt inokuleras på ris, korn eller sojabönor.
 [^marknad]: Kan köpas direkt av Tim när han är på Bondens marknad i Uppsala.
